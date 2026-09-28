@@ -1279,16 +1279,6 @@
   },
   {
     "status": "active",
-    "code": "alfa-inet",
-    "category": "telecommunications",
-    "name": {
-      "en": "Alpha-Internet",
-      "uk": "Альфа-інет",
-      "ru": "Альфа-инет"
-    }
-  },
-  {
-    "status": "active",
     "code": "taksi-3303-dnepropetrovsk",
     "category": "taxi",
     "name": {
@@ -4619,72 +4609,12 @@
   },
   {
     "status": "active",
-    "code": "dp-gazposttach-pat-ternopilmiskgaz",
-    "category": "public-services",
-    "name": {
-      "en": "DP Gazpromstach PJSC Ternopolgorgaz",
-      "uk": "ДП Газпосттач ПАТ Тернопільміськгаз",
-      "ru": "ДП Газпосттач ПАО Тернопольгоргаз"
-    }
-  },
-  {
-    "status": "active",
     "code": "pavlogradski-mem-tsok-pavlogradskogo-r-nu",
     "category": "public-services",
     "name": {
       "en": "Pavlograd MES (CSC Pavlograd district)",
       "uk": "Павлоградские МЕМ (ЦОК Павлоградського району)",
       "ru": "Павлоградские МЭС (ЦОК Павлоградского района)"
-    }
-  },
-  {
-    "status": "active",
-    "code": "kp-ternopilmiskteplokomunenergo",
-    "category": "public-services",
-    "name": {
-      "en": "KP Ternopilgorplokommunenergo",
-      "uk": "КП Тернопільміськтеплокомуненерго",
-      "ru": "КП Тернопольгортеплокоммунэнерго"
-    }
-  },
-  {
-    "status": "active",
-    "code": "kp-ternopilvodokanal",
-    "category": "public-services",
-    "name": {
-      "en": "KP Ternopilvodokanal",
-      "uk": "КП Тернопільводоканал",
-      "ru": "КП Тернопольводоканал"
-    }
-  },
-  {
-    "status": "active",
-    "code": "dp-gazposttach-pat-ternopilmiskgaz",
-    "category": "public-services",
-    "name": {
-      "en": "DP Gazpromstach PJSC Ternopolgorgaz",
-      "uk": "ДП Газпосттач ПАТ Тернопільміськгаз",
-      "ru": "ДП Газпосттач ПАО Тернопольгоргаз"
-    }
-  },
-  {
-    "status": "active",
-    "code": "kp-ternopilmiskteplokomunenergo",
-    "category": "public-services",
-    "name": {
-      "en": "KP Ternopilgorplokommunenergo",
-      "uk": "КП Тернопільміськтеплокомуненерго",
-      "ru": "КП Тернопольгортеплокоммунэнерго"
-    }
-  },
-  {
-    "status": "active",
-    "code": "kp-ternopilvodokanal",
-    "category": "public-services",
-    "name": {
-      "en": "KP Ternopilvodokanal",
-      "uk": "КП Тернопільводоканал",
-      "ru": "КП Тернопольводоканал"
     }
   },
   {
@@ -5079,16 +5009,6 @@
   },
   {
     "status": "active",
-    "code": "kp-porto-frankivskii-odesa",
-    "category": "public-services",
-    "name": {
-      "en": "KP 'Porto-Frankivsk' (Odessa)",
-      "uk": "КП 'Порто-Франківський' (Одеса)",
-      "ru": "КП 'Порто-Франковский' (Одесса)"
-    }
-  },
-  {
-    "status": "active",
     "code": "megogo-legkaia",
     "category": "telecommunications",
     "name": {
@@ -5309,32 +5229,12 @@
   },
   {
     "status": "active",
-    "code": "mkp-mukachivvodokanal",
-    "category": "public-services",
-    "name": {
-      "en": "INC Mukachivvodokanal",
-      "uk": "МКП Мукачівводоканал",
-      "ru": "МКП Мукачивводоканал"
-    }
-  },
-  {
-    "status": "active",
     "code": "rai-optic-ivano-frankivsk",
     "category": "telecommunications",
     "name": {
       "en": "RAI-Optic (Ivano-Frankivsk)",
       "uk": "RAI-Optic (Івано-Франківськ)",
       "ru": "RAI-Optic (Ивано-Франковск)"
-    }
-  },
-  {
-    "status": "active",
-    "code": "pat-kb-globus-pogashennia-kreditiv",
-    "category": "financial-services",
-    "name": {
-      "en": "PJSC CB GLOBUS (loan repayment)",
-      "uk": "ПАТ КБ ГЛОБУС (погашення кредитів)",
-      "ru": "ПАО КБ ГЛОБУС (погашение кредитов)"
     }
   },
   {
@@ -5455,16 +5355,6 @@
       "en": "PJSC FUIB (Refill Card \/ Flow Trader)",
       "uk": "ПАТ ПУМБ (Поповнення карткового \/ поточного рахунку)",
       "ru": "ПАО ПУМБ (Пополнение карточного \/ поточного рахунку)"
-    }
-  },
-  {
-    "status": "active",
-    "code": "dms-ivano-frankivska-obl",
-    "category": "budget-payments",
-    "name": {
-      "en": "LMI (Ivano-Frankivsk region)",
-      "uk": "ДМС (Івано-Франківська обл.)",
-      "ru": "ДМС (Ивано-Франковская обл.)"
     }
   },
   {
@@ -8899,16 +8789,6 @@
   },
   {
     "status": "active",
-    "code": "viasat-uatv",
-    "category": "telecommunications",
-    "name": {
-      "en": "Viasat UATV",
-      "uk": "Viasat UATV",
-      "ru": "Viasat UATV"
-    }
-  },
-  {
-    "status": "active",
     "code": "orion-city",
     "category": "entertainment",
     "name": {
@@ -9185,6 +9065,16 @@
       "en": "EK Odessaaoblenergo '- Ananievsky Distribution Zone",
       "uk": " 'ЕК Одесаобленерго' - Ананьївський РЕМ",
       "ru": " 'ЭК Одессаоблэнерго' - Ананьевский РЭС"
+    }
+  },
+  {
+    "status": "active",
+    "code": "spush_pay",
+    "category": "digital_wallet",
+    "name": {
+      "en": "Spush Pay",
+      "ru": "Spush Pay",
+      "uk": "Spush Pay"
     }
   },
   {
@@ -9739,16 +9629,6 @@
   },
   {
     "status": "active",
-    "code": "bi-net",
-    "category": "telecommunications",
-    "name": {
-      "en": "Bi.Net",
-      "uk": "Bi.Net",
-      "ru": "Bi.Net"
-    }
-  },
-  {
-    "status": "active",
     "code": "irshansk-telekom",
     "category": "telecommunications",
     "name": {
@@ -10115,16 +9995,6 @@
       "en": "LOCAL STUDENT NETWORKS",
       "uk": "LOCAL STUDENT NETWORKS",
       "ru": "LOCAL STUDENT NETWORKS"
-    }
-  },
-  {
-    "status": "active",
-    "code": "diti-proti-raku-mbf-tsspm",
-    "category": "others",
-    "name": {
-      "en": "Children against cancer - ICF DSPM '",
-      "uk": "Діти проти раку - МБФ ЦСПМ '",
-      "ru": "Дети против рака - МБФ ЦСПМ '"
     }
   },
   {
@@ -11205,16 +11075,6 @@
       "en": "Taxi Ivan (Melitopol)",
       "uk": "Таксі Іван (Мелітополь)",
       "ru": "Такси Иван (Мелитополь)"
-    }
-  },
-  {
-    "status": "active",
-    "code": "taksi-student-zaporozhe",
-    "category": "taxi",
-    "name": {
-      "en": "Taxi Student (Zaporozhye)",
-      "uk": "Таксі Студент (Запоріжжя)",
-      "ru": "Такси Студент (Запорожье)"
     }
   },
   {
@@ -14749,16 +14609,6 @@
   },
   {
     "status": "active",
-    "code": "volia",
-    "category": "telecommunications",
-    "name": {
-      "en": "Will",
-      "uk": "Воля",
-      "ru": "Воля"
-    }
-  },
-  {
-    "status": "active",
     "code": "icn-odessa",
     "category": "telecommunications",
     "name": {
@@ -14845,16 +14695,6 @@
       "en": "PAT 'Volinoblenergo' Turiiyskaya Filial",
       "uk": "ПАТ 'Волиньобленерго' Турійська філія",
       "ru": "ПАТ 'Волиньобленерго' Турійська філія"
-    }
-  },
-  {
-    "status": "active",
-    "code": "popovnennia-karti",
-    "category": "financial-services",
-    "name": {
-      "en": "Population Pictures",
-      "uk": "Поповнення карти",
-      "ru": "Поповнення карти"
     }
   },
   {
@@ -15025,16 +14865,6 @@
       "en": "X-NET (Odessa)",
       "uk": "X-NET (Одеса)",
       "ru": "X-NET (Одесса)"
-    }
-  },
-  {
-    "status": "active",
-    "code": "lumina-vyshgorod",
-    "category": "telecommunications",
-    "name": {
-      "en": "LUMINA (Vyshgorod)",
-      "uk": "LUMINA (Вишгород)",
-      "ru": "LUMINA (Вышгород)"
     }
   },
   {
@@ -15505,16 +15335,6 @@
       "en": "TNEU - For archival information",
       "uk": "ТНЕУ - За архівну довідку",
       "ru": "ТНЭУ - За архивную справку"
-    }
-  },
-  {
-    "status": "active",
-    "code": "net-city-zhitomir",
-    "category": "telecommunications",
-    "name": {
-      "en": "Net-City (Zhytomyr)",
-      "uk": "Net-City (Житомир)",
-      "ru": "Net-City (Житомир)"
     }
   },
   {
@@ -17229,16 +17049,6 @@
   },
   {
     "status": "active",
-    "code": "forza24",
-    "category": "financial-services",
-    "name": {
-      "en": "Forza24",
-      "uk": "Forza24",
-      "ru": "Forza24"
-    }
-  },
-  {
-    "status": "active",
     "code": "msl-derzhavni-lotereyi",
     "category": "entertainment",
     "name": {
@@ -17470,15 +17280,6 @@
   },
   {
     "status": "active",
-    "code": "china_guangfa_bank",
-    "category": "bank_transfer",
-    "name": {
-      "en": "China Guangfa Bank",
-      "zh": "广发银行"
-    }
-  },
-  {
-    "status": "active",
     "code": "china_merchants_bank",
     "category": "bank_transfer",
     "name": {
@@ -17578,15 +17379,6 @@
   },
   {
     "status": "active",
-    "code": "bank_of_ningbo",
-    "category": "bank_transfer",
-    "name": {
-      "en": "Bank Of NingBo",
-      "zh": "宁波银行"
-    }
-  },
-  {
-    "status": "active",
     "code": "china_zheshang_bank",
     "category": "bank_transfer",
     "name": {
@@ -17655,24 +17447,6 @@
     "name": {
       "en": "Shanghai Rural Commercial Bank",
       "zh": "上海农村商业银行"
-    }
-  },
-  {
-    "status": "active",
-    "code": "china_bohai_bank",
-    "category": "bank_transfer",
-    "name": {
-      "en": "China BoHai Bank",
-      "zh": "中国博海银行"
-    }
-  },
-  {
-    "status": "active",
-    "code": "bank_of_nanjing",
-    "category": "bank_transfer",
-    "name": {
-      "en": "Bank Of NanJing",
-      "zh": "南京银行"
     }
   },
   {
@@ -17777,7 +17551,7 @@
     "code": "krung_thai_bank",
     "category": "bank_transfer",
     "name": {
-      "en": "Krungthai Bank"
+      "en": "Krung Thai Bank"
     }
   },
   {
@@ -17810,14 +17584,6 @@
     "category": "bank_transfer",
     "name": {
       "en": "United Overseas Bank"
-    }
-  },
-  {
-    "status": "active",
-    "code": "cimb_bank",
-    "category": "bank_transfer",
-    "name": {
-      "en": "CIMB Bank"
     }
   },
   {
@@ -17918,6 +17684,14 @@
   },
   {
     "status": "active",
+    "code": "exim_bank_vietnam",
+    "category": "online_banking",
+    "name": {
+      "en": "Eximbank Vietnam"
+    }
+  },
+  {
+    "status": "active",
     "code": "bank_central_asia",
     "category": "bank_transfer",
     "name": {
@@ -17977,6 +17751,7 @@
   {
     "status": "active",
     "code": "mandiri_bank",
+    "vendor": "mandiri_bank",
     "category": "bank_transfer",
     "name": {
       "en": "Mandiri Bank"
@@ -18008,6 +17783,16 @@
       "en": "Payeer",
       "ru": "Payeer",
       "uk": "Payeer"
+    }
+  },
+  {
+    "status": "active",
+    "code": "pay4fun",
+    "category": "digital_wallet",
+    "name": {
+      "en": "Pay4Fun",
+      "ru": "Pay4Fun",
+      "uk": "Pay4Fun"
     }
   },
   {
@@ -18158,6 +17943,16 @@
       "en": "Neteller",
       "ru": "Neteller",
       "uk": "Neteller"
+    }
+  },
+  {
+    "status": "active",
+    "code": "rapidtransfer",
+    "category": "digital_wallet",
+    "name": {
+      "en": "Rapid Transfer",
+      "ru": "Rapid Transfer",
+      "uk": "Rapid Transfer"
     }
   },
   {
@@ -19572,16 +19367,6 @@
   },
   {
     "status": "active",
-    "code": "dp-gazposttach-pat-ternopilmiskgaz",
-    "category": "telecommunications",
-    "name": {
-      "en": "ДП Газпосттач ПАТ Тернопільміськгаз",
-      "ru": "ДП Газпосттач ПАТ Тернопільміськгаз",
-      "uk": "ДП Газпосттач ПАТ Тернопільміськгаз"
-    }
-  },
-  {
-    "status": "active",
     "code": "tdv-sk-naftagazstrakh",
     "category": "telecommunications",
     "name": {
@@ -20682,16 +20467,6 @@
   },
   {
     "status": "active",
-    "code": "kp-ternopilmiskteplokomunenergo",
-    "category": "telecommunications",
-    "name": {
-      "en": "КП Тернопільміськтеплокомуненерго",
-      "ru": "КП Тернопільміськтеплокомуненерго",
-      "uk": "КП Тернопільміськтеплокомуненерго"
-    }
-  },
-  {
-    "status": "active",
     "code": "status-kontrol-ubki",
     "category": "telecommunications",
     "name": {
@@ -21285,9 +21060,9 @@
     "code": "kp-porto-frankivskii-odesa",
     "category": "telecommunications",
     "name": {
-      "en": "КП \"ПОРТО-ФРАНКІВСЬКИЙ\" (Одеса)",
-      "ru": "КП \"ПОРТО-ФРАНКІВСЬКИЙ\" (Одеса)",
-      "uk": "КП \"ПОРТО-ФРАНКІВСЬКИЙ\" (Одеса)"
+      "en": "KP 'Porto-Frankivsk' (Odessa)",
+      "uk": "КП 'Порто-Франківський' (Одеса)",
+      "ru": "КП 'Порто-Франковский' (Одесса)"
     }
   },
   {
@@ -21728,6 +21503,16 @@
       "en": "Piastrix",
       "ru": "Piastrix",
       "uk": "Piastrix"
+    }
+  },
+  {
+    "status": "active",
+    "code": "kvitum",
+    "category": "digital_wallet",
+    "name": {
+      "en": "Qostiq",
+      "ru": "Qostiq",
+      "uk": "Qostiq"
     }
   },
   {
@@ -23894,6 +23679,72 @@
     }
   },
   {
+    "code": "digital_cash",
+    "vendor": "digital_cash",
+    "category": "alternative",
+    "status": "active",
+    "name": {
+      "en": "Digital Cash",
+      "ru": "Digital Cash",
+      "uk": "Digital Cash"
+    }
+  },
+  {
+    "code": "binance_usd",
+    "vendor": "binance_usd",
+    "category": "alternative",
+    "status": "active",
+    "name": {
+      "en": "Binance Usd",
+      "ru": "Binance Usd",
+      "uk": "Binance Usd"
+    }
+  },
+  {
+    "code": "polygon",
+    "vendor": "polygon",
+    "category": "alternative",
+    "status": "active",
+    "name": {
+      "en": "Polygon",
+      "ru": "Polygon",
+      "uk": "Polygon"
+    }
+  },
+  {
+    "code": "solana",
+    "vendor": "solana",
+    "category": "alternative",
+    "status": "active",
+    "name": {
+      "en": "Solana",
+      "ru": "Solana",
+      "uk": "Solana"
+    }
+  },
+  {
+    "code": "stellar",
+    "vendor": "stellar",
+    "category": "alternative",
+    "status": "active",
+    "name": {
+      "en": "Stellar",
+      "ru": "Stellar",
+      "uk": "Stellar"
+    }
+  },
+  {
+    "code": "toncoin",
+    "vendor": "toncoin",
+    "category": "alternative",
+    "status": "active",
+    "name": {
+      "en": "Toncoin",
+      "ru": "Toncoin",
+      "uk": "Toncoin"
+    }
+  },
+  {
     "status": "active",
     "code": "upi",
     "category": "digital_wallet",
@@ -23901,6 +23752,16 @@
       "en": "UPI",
       "uk": "UPI",
       "ru": "UPI"
+    }
+  },
+  {
+    "status": "active",
+    "code": "upi_payout",
+    "category": "digital_wallet",
+    "name": {
+      "en": "UPI Payout",
+      "uk": "UPI Payout",
+      "ru": "UPI Payout"
     }
   },
   {
@@ -23957,6 +23818,16 @@
     }
   },
   {
+    "code": "venom",
+    "category": "alternative",
+    "status": "active",
+    "name": {
+      "en": "VENOM",
+      "ru": "VENOM",
+      "uk": "VENOM"
+    }
+  },
+  {
     "status": "active",
     "code": "upi_bank_account",
     "category": "bank_transfer",
@@ -23974,6 +23845,8501 @@
       "en": "IMPS",
       "uk": "IMPS",
       "ru": "IMPS"
+    }
+  },
+  {
+    "status": "active",
+    "code": "settlepay_wallet",
+    "category": "digital_wallet",
+    "name": {
+      "en": "SettlePay Wallet",
+      "uk": "SettlePay Wallet",
+      "ru": "SettlePay Wallet"
+    }
+  },
+  {
+    "status": "active",
+    "code": "enterprise_bank_limited",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Enterprise Bank Limited",
+      "uk": "Enterprise Bank Limited",
+      "ru": "Enterprise Bank Limited"
+    }
+  },
+  {
+    "status": "active",
+    "code": "npfmicrofinance_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "NPF Microfinance Bank Plc",
+      "uk": "NPF Microfinance Bank Plc",
+      "ru": "NPF Microfinance Bank Plc"
+    }
+  },
+  {
+    "status": "active",
+    "code": "pix",
+    "vendor": "bcb",
+    "category": "bank_transfer",
+    "name": {
+      "en": "PIX",
+      "uk": "PIX",
+      "ru": "PIX"
+    }
+  },
+  {
+    "status": "active",
+    "code": "spei",
+    "vendor": "bnd",
+    "category": "bank_transfer",
+    "name": {
+      "en": "SPEI",
+      "uk": "SPEI",
+      "ru": "SPEI"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bbva",
+    "category": "bank_transfer",
+    "name": {
+      "en": "BBVA Continental",
+      "ru": "BBVA Continental",
+      "uk": "BBVA Continental"
+    }
+  },
+  {
+    "status": "active",
+    "code": "inter_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Inter bank",
+      "ru": "Inter bank",
+      "uk": "Inter bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "prymera_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Prymera Bank",
+      "ru": "Prymera Bank",
+      "uk": "Prymera Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "kasnet",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Kasnet",
+      "ru": "Kasnet",
+      "uk": "Kasnet"
+    }
+  },
+  {
+    "status": "active",
+    "code": "chilean_commercial_bank",
+    "vendor": "bnd",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Chilean Commercial Bank",
+      "uk": "Chilean Commercial Bank",
+      "ru": "Chilean Commercial Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "efecty",
+    "vendor": "bnd",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Efecty",
+      "uk": "Efecty",
+      "ru": "Efecty"
+    }
+  },
+  {
+    "status": "active",
+    "code": "jeton_wallet",
+    "category": "digital_wallet",
+    "name": {
+      "en": "Jeton Wallet",
+      "uk": "Jeton Wallet",
+      "ru": "Jeton Wallet"
+    }
+  },
+  {
+    "status": "active",
+    "code": "d24_wallet",
+    "category": "digital_wallet",
+    "name": {
+      "en": "D24 Wallet",
+      "uk": "D24 Wallet",
+      "ru": "D24 Wallet"
+    }
+  },
+  {
+    "status": "active",
+    "code": "ziraat_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Ziraat Bank",
+      "ru": "Ziraat Bank",
+      "uk": "Ziraat Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "turkey_econom_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Turkey Econom Bank",
+      "ru": "Turkey Econom Bank",
+      "uk": "Turkey Econom Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "ing_bank_turkey",
+    "category": "bank_transfer",
+    "name": {
+      "en": "ING Bank Turkey",
+      "ru": "ING Bank Turkey",
+      "uk": "ING Bank Turkey"
+    }
+  },
+  {
+    "status": "active",
+    "code": "turkey_is_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Turkey Is Bank",
+      "ru": "Turkey Is Bank",
+      "uk": "Turkey Is Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "ininal",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Ininal",
+      "ru": "Ininal",
+      "uk": "Ininal"
+    }
+  },
+  {
+    "status": "active",
+    "code": "hegra_sparebank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Hegra Sparebank",
+      "ru": "Hegra Sparebank",
+      "uk": "Hegra Sparebank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "sparebank_1_smn",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Sparebank 1",
+      "ru": "Sparebank 1",
+      "uk": "Sparebank 1"
+    }
+  },
+  {
+    "status": "active",
+    "code": "nordea_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Nordea",
+      "ru": "Nordea",
+      "uk": "Nordea"
+    }
+  },
+  {
+    "status": "active",
+    "code": "sbanken_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Sbanken",
+      "ru": "Sbanken",
+      "uk": "Sbanken"
+    }
+  },
+  {
+    "status": "active",
+    "code": "danske_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Danske Bank",
+      "ru": "Danske Bank",
+      "uk": "Danske Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "dnb_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "DNB",
+      "ru": "DNB",
+      "uk": "DNB"
+    }
+  },
+  {
+    "status": "active",
+    "code": "storebrand",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Storebrand",
+      "ru": "Storebrand",
+      "uk": "Storebrand"
+    }
+  },
+  {
+    "status": "active",
+    "code": "totens_sparebank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Totens Sparebank",
+      "ru": "Totens Sparebank",
+      "uk": "Totens Sparebank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "sparebanken_vest",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Sparebanken Vest",
+      "ru": "Sparebanken Vest",
+      "uk": "Sparebanken Vest"
+    }
+  },
+  {
+    "status": "active",
+    "code": "qnb_finansbank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "QNB Finansbank",
+      "ru": "QNB Finansbank",
+      "uk": "QNB Finansbank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "turkey_finans_katilim_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Turkiye Finans Katilim Bank",
+      "ru": "Turkiye Finans Katilim Bank",
+      "uk": "Turkiye Finans Katilim Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "akbank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Akbank",
+      "ru": "Akbank",
+      "uk": "Akbank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "interac",
+    "category": "online_banking",
+    "name": {
+      "en": "Interac Online",
+      "ru": "Interac Online",
+      "uk": "Interac Online"
+    }
+  },
+  {
+    "status": "active",
+    "code": "papara",
+    "category": "alternative",
+    "name": {
+      "en": "Papara",
+      "ru": "Papara",
+      "uk": "Papara"
+    }
+  },
+  {
+    "status": "active",
+    "code": "tron",
+    "category": "alternative",
+    "name": {
+      "en": "TRON",
+      "uk": "TRON",
+      "ru": "TRON"
+    }
+  },
+  {
+    "status": "active",
+    "code": "near_protocol",
+    "category": "alternative",
+    "name": {
+      "en": "NEAR Protocol",
+      "uk": "NEAR Protocol",
+      "ru": "NEAR Protocol"
+    }
+  },
+  {
+    "status": "active",
+    "code": "usd_coin",
+    "category": "alternative",
+    "name": {
+      "en": "USD Coin",
+      "uk": "USD Coin",
+      "ru": "USD Coin"
+    }
+  },
+  {
+    "status": "active",
+    "code": "sepa_transfer",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Sepa Transfer",
+      "uk": "Sepa Transfer",
+      "ru": "Sepa Transfer"
+    }
+  },
+  {
+    "status": "active",
+    "code": "faster_payments",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Faster Payments",
+      "uk": "Faster Payments",
+      "ru": "Faster Payments"
+    }
+  },
+  {
+    "status": "active",
+    "code": "vib_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Vietnam International Commercial Joint Stock Bank",
+      "uk": "Vietnam International Commercial Joint Stock Bank",
+      "ru": "Vietnam International Commercial Joint Stock Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "agri_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Vietnam Bank for Agriculture and Rural Development",
+      "uk": "Vietnam Bank for Agriculture and Rural Development",
+      "ru": "Vietnam Bank for Agriculture and Rural Development"
+    }
+  },
+  {
+    "status": "active",
+    "code": "saigon_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Saigon Bank For Industry And Trade",
+      "uk": "Saigon Bank For Industry And Trade",
+      "ru": "Saigon Bank For Industry And Trade"
+    }
+  },
+  {
+    "status": "active",
+    "code": "vrb_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Vietnam - Russia Joint Venture Bank",
+      "uk": "Vietnam - Russia Joint Venture Bank",
+      "ru": "Vietnam - Russia Joint Venture Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "ab_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "An Binh Commercial Joint Stock Bank",
+      "uk": "An Binh Commercial Joint Stock Bank",
+      "ru": "An Binh Commercial Joint Stock Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "baoviet_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Baoviet Joint Stock Commercial Bank",
+      "uk": "Baoviet Joint Stock Commercial Bank",
+      "ru": "Baoviet Joint Stock Commercial Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "public_bank_vietnam",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Public Bank Vietnam",
+      "uk": "Public Bank Vietnam",
+      "ru": "Public Bank Vietnam"
+    }
+  },
+  {
+    "status": "active",
+    "code": "pvcom_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Vietnam Public Joint Stock Commercial Bank",
+      "uk": "Vietnam Public Joint Stock Commercial Bank",
+      "ru": "Vietnam Public Joint Stock Commercial Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "kien_long_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Kien Long Commercial Joint - Stock Bank",
+      "uk": "Kien Long Commercial Joint - Stock Bank",
+      "ru": "Kien Long Commercial Joint - Stock Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "mb_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "MB Bank",
+      "uk": "MB Bank",
+      "ru": "MB Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "standard_chartered_bank_vietnam",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Standard Chartered Bank (Vietnam) Limited",
+      "uk": "Standard Chartered Bank (Vietnam) Limited",
+      "ru": "Standard Chartered Bank (Vietnam) Limited"
+    }
+  },
+  {
+    "status": "active",
+    "code": "petrolimex_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Petrolimex Group Commercial Joint Stock Bank",
+      "uk": "Petrolimex Group Commercial Joint Stock Bank",
+      "ru": "Petrolimex Group Commercial Joint Stock Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "viet_capital_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Viet Capital Commercial",
+      "uk": "Viet Capital Commercial",
+      "ru": "Viet Capital Commercial"
+    }
+  },
+  {
+    "status": "active",
+    "code": "viet_a_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "VietNam Asia Commercial Bank",
+      "uk": "VietNam Asia Commercial Bank",
+      "ru": "VietNam Asia Commercial Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "ocean_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Ocean Commercial One Member Limited Liability Bank",
+      "uk": "Ocean Commercial One Member Limited Liability Bank",
+      "ru": "Ocean Commercial One Member Limited Liability Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "nam_a_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Nam A Commercial Joint Stock Bank",
+      "uk": "Nam A Commercial Joint Stock Bank",
+      "ru": "Nam A Commercial Joint Stock Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "indovina_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Indovina Bank Ltd.",
+      "uk": "Indovina Bank Ltd.",
+      "ru": "Indovina Bank Ltd."
+    }
+  },
+  {
+    "status": "active",
+    "code": "lien_viet_post_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "LienVietPostBank",
+      "uk": "LienVietPostBank",
+      "ru": "LienVietPostBank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "industrial_bank_ho_chi_minh",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Industrial Bank Of Korea (IBK) - Ho Chi Minh City Branch",
+      "uk": "Industrial Bank Of Korea (IBK) - Ho Chi Minh City Branch",
+      "ru": "Industrial Bank Of Korea (IBK) - Ho Chi Minh City Branch"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bac_a_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "North Asia Commercial Joint Stock Bank",
+      "uk": "North Asia Commercial Joint Stock Bank",
+      "ru": "North Asia Commercial Joint Stock Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "maritime_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Vietnam Maritime Commercial Joint Stock Bank",
+      "uk": "Vietnam Maritime Commercial Joint Stock Bank",
+      "ru": "Vietnam Maritime Commercial Joint Stock Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "cooperative_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Co-operative Bank of Viet Nam",
+      "uk": "Co-operative Bank of Viet Nam",
+      "ru": "Co-operative Bank of Viet Nam"
+    }
+  },
+  {
+    "status": "active",
+    "code": "gp_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Global Petro Sole Member Limited Commercial Bank",
+      "uk": "Global Petro Sole Member Limited Commercial Bank",
+      "ru": "Global Petro Sole Member Limited Commercial Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "industrial_bank_hanoi",
+    "category": "bank_transfer",
+    "name": {
+      "en": "INDUSTRIAL BANK OF KOREA – HANOI BRANCH",
+      "uk": "INDUSTRIAL BANK OF KOREA – HANOI BRANCH",
+      "ru": "INDUSTRIAL BANK OF KOREA – HANOI BRANCH"
+    }
+  },
+  {
+    "status": "active",
+    "code": "sea_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Southeast Asia Commercial Joint Stock Bank",
+      "uk": "Southeast Asia Commercial Joint Stock Bank",
+      "ru": "Southeast Asia Commercial Joint Stock Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "hd_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Housing Development Commercial Joint Stock Bank",
+      "uk": "Housing Development Commercial Joint Stock Bank",
+      "ru": "Housing Development Commercial Joint Stock Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "cimb_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "CIMB Bank Vietnam Limited",
+      "uk": "CIMB Bank Vietnam Limited",
+      "ru": "CIMB Bank Vietnam Limited"
+    }
+  },
+  {
+    "status": "active",
+    "code": "shb_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Saigon-Hanoi Commercial Joint Stock Bank",
+      "uk": "Saigon-Hanoi Commercial Joint Stock Bank",
+      "ru": "Saigon-Hanoi Commercial Joint Stock Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "scb_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Sai Gon Joint Stock Commercial Bank",
+      "uk": "Sai Gon Joint Stock Commercial Bank",
+      "ru": "Sai Gon Joint Stock Commercial Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "vp_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Vietnam Prosperity Joint‑Stock Commercial Bank",
+      "uk": "Vietnam Prosperity Joint‑Stock Commercial Bank",
+      "ru": "Vietnam Prosperity Joint‑Stock Commercial Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "tp_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Tien Phong Commercial Joint Stock Bank",
+      "uk": "Tien Phong Commercial Joint Stock Bank",
+      "ru": "Tien Phong Commercial Joint Stock Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "ncb_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "National Citizen Commercial Joint Stock Bank",
+      "uk": "National Citizen Commercial Joint Stock Bank",
+      "ru": "National Citizen Commercial Joint Stock Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "viet_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Vietnam Thuong Tin Commercial Joint Stock Bank",
+      "uk": "Vietnam Thuong Tin Commercial Joint Stock Bank",
+      "ru": "Vietnam Thuong Tin Commercial Joint Stock Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "omllvcb_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Vietnam Construction Joint Stock Commercial Bank",
+      "uk": "Vietnam Construction Joint Stock Commercial Bank",
+      "ru": "Vietnam Construction Joint Stock Commercial Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "ocb_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Orient Commercial Joint Stock Bank",
+      "uk": "Orient Commercial Joint Stock Bank",
+      "ru": "Orient Commercial Joint Stock Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "cfc_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "VietCredit Finance Joint Stock Company",
+      "uk": "VietCredit Finance Joint Stock Company",
+      "ru": "VietCredit Finance Joint Stock Company"
+    }
+  },
+  {
+    "status": "active",
+    "code": "momo",
+    "category": "mobile_payment",
+    "name": {
+      "en": "MoMo",
+      "uk": "MoMo",
+      "ru": "MoMo"
+    }
+  },
+  {
+    "status": "active",
+    "code": "zalopay",
+    "category": "mobile_payment",
+    "name": {
+      "en": "ZaloPay",
+      "uk": "ZaloPay",
+      "ru": "ZaloPay"
+    }
+  },
+  {
+    "status": "active",
+    "code": "shinhan_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Shinhan Bank",
+      "uk": "Shinhan Bank",
+      "ru": "Shinhan Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "woori_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Woori Bank",
+      "uk": "Woori Bank",
+      "ru": "Woori Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "uobt",
+    "category": "bank_transfer",
+    "name": {
+      "en": "UOBT",
+      "uk": "UOBT",
+      "ru": "UOBT"
+    }
+  },
+  {
+    "status": "active",
+    "code": "rtgs",
+    "category": "bank_transfer",
+    "name": {
+      "en": "RTGS",
+      "uk": "RTGS",
+      "ru": "RTGS"
+    }
+  },
+  {
+    "status": "active",
+    "code": "neft",
+    "category": "bank_transfer",
+    "name": {
+      "en": "NEFT",
+      "uk": "NEFT",
+      "ru": "NEFT"
+    }
+  },
+  {
+    "status": "active",
+    "code": "hdfc_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "HDFC Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "icici_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "ICICI Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "indusind_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "IndusInd Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "state_bank_of_india",
+    "category": "bank_transfer",
+    "name": {
+      "en": "State Bank of India"
+    }
+  },
+  {
+    "status": "active",
+    "code": "kotak_mahindra_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Kotak Mahindra Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "idfc_bank_india",
+    "category": "bank_transfer",
+    "name": {
+      "en": "IDFC BANK"
+    }
+  },
+  {
+    "status": "active",
+    "code": "axis_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Axis Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bandhan_bank",
+    "category": "online_banking",
+    "name": {
+      "en": "Bandhan Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_of_baroda",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank Of Baroda"
+    }
+  },
+  {
+    "status": "active",
+    "code": "federal_bank_india",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Federal Bank of India"
+    }
+  },
+  {
+    "status": "active",
+    "code": "idbi_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "IDBI Bank Ltd"
+    }
+  },
+  {
+    "status": "active",
+    "code": "india_post_payment_bank",
+    "category": "online_banking",
+    "name": {
+      "en": "India Post Payments Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "j_k_bank_india",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Jammu & Kashmir Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "karnataka_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Karnataka Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "lakshmi_vilas_bank_india",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Lakshmi Vilas Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "paytm_payments_bank",
+    "category": "online_banking",
+    "name": {
+      "en": "Paytm Payments Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "ujjivan_small_finance_bank",
+    "category": "online_banking",
+    "name": {
+      "en": "Ujjivan Small Finance Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "techcom_bank",
+    "category": "online_banking",
+    "name": {
+      "en": "Vietnam Technological and Commercial Joint Stock Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "asia_commercial_bank",
+    "category": "online_banking",
+    "name": {
+      "en": "Asia Commercial Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "affin_bank_berhad",
+    "category": "online_banking",
+    "name": {
+      "en": "Affin Bank Berhad"
+    }
+  },
+  {
+    "status": "active",
+    "code": "alliance_bank",
+    "category": "online_banking",
+    "name": {
+      "en": "Alliance Bank Malaysia Berhad"
+    }
+  },
+  {
+    "status": "active",
+    "code": "ambank_berhad",
+    "category": "online_banking",
+    "name": {
+      "en": "AmBank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_islam_malaysia",
+    "category": "online_banking",
+    "name": {
+      "en": "Bank Islam Malaysia"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_rakyat_malaysia_berhad",
+    "category": "online_banking",
+    "name": {
+      "en": "Bank Rakyat"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_simpanan_nasional_berhad",
+    "category": "online_banking",
+    "name": {
+      "en": "Bank Simpanan Nasional"
+    }
+  },
+  {
+    "status": "active",
+    "code": "citi_bank",
+    "category": "online_banking",
+    "name": {
+      "en": "Citibank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "hsbc_bank_malaysia_berhad",
+    "category": "online_banking",
+    "name": {
+      "en": "HSBC Bank Malaysia"
+    }
+  },
+  {
+    "status": "active",
+    "code": "maybank_berhad",
+    "category": "online_banking",
+    "name": {
+      "en": "Maybank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "ocbc_bank",
+    "category": "online_banking",
+    "name": {
+      "en": "OCBC (OCBC Bank)"
+    }
+  },
+  {
+    "status": "active",
+    "code": "united_overseas_bank_berhad",
+    "category": "online_banking",
+    "name": {
+      "en": "United Overseas Bank Malaysia"
+    }
+  },
+  {
+    "status": "active",
+    "code": "asia_commercial_bank_qr",
+    "category": "alternative",
+    "name": {
+      "en": "Asia Commercial Bank QR"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bidv_bank_qr",
+    "category": "alternative",
+    "name": {
+      "en": "BIDV Bank QR"
+    }
+  },
+  {
+    "status": "active",
+    "code": "vietcom_bank_qr",
+    "category": "alternative",
+    "name": {
+      "en": "VIETCOM Bank QR"
+    }
+  },
+  {
+    "status": "active",
+    "code": "vietin_bank_qr",
+    "category": "alternative",
+    "name": {
+      "en": "VIETIN Bank QR"
+    }
+  },
+  {
+    "status": "active",
+    "code": "momo_qr",
+    "category": "alternative",
+    "name": {
+      "en": "Momo QR",
+      "ru": "Momo QR",
+      "uk": "Momo QR"
+    }
+  },
+  {
+    "status": "active",
+    "code": "zalo_qr",
+    "category": "alternative",
+    "name": {
+      "en": "ZaloPay QR",
+      "ru": "ZaloPay QR",
+      "uk": "ZaloPay QR"
+    }
+  },
+  {
+    "status": "active",
+    "code": "vietnam_prosperity_commerial_bank_qr",
+    "category": "alternative",
+    "name": {
+      "en": "Vietnam Prosperity Joint-Stock Commercial Bank QR"
+    }
+  },
+  {
+    "status": "active",
+    "code": "military_commercial_bank_qr",
+    "category": "alternative",
+    "name": {
+      "en": "Military Commercial Joint Stock Bank QR"
+    }
+  },
+  {
+    "status": "active",
+    "code": "techcom_bank_qr",
+    "category": "alternative",
+    "name": {
+      "en": "Vietnam Technological and Commercial Joint Stock Bank QR"
+    }
+  },
+  {
+    "status": "active",
+    "code": "artha_graha_bank",
+    "category": "digital_wallet",
+    "name": {
+      "en": "Bank Artha Graha"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bukopin_bank",
+    "category": "digital_wallet",
+    "name": {
+      "en": "Bank KB Bukopin"
+    }
+  },
+  {
+    "status": "active",
+    "code": "commonwealth_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Commonwealth Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "mega_bank",
+    "category": "digital_wallet",
+    "name": {
+      "en": "Mega International Commercial Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "maspion_bank",
+    "category": "digital_wallet",
+    "name": {
+      "en": "Bank Maspion"
+    }
+  },
+  {
+    "status": "active",
+    "code": "mestika_bank",
+    "category": "digital_wallet",
+    "name": {
+      "en": "Bank Mestika"
+    }
+  },
+  {
+    "status": "active",
+    "code": "panin_bank",
+    "category": "digital_wallet",
+    "name": {
+      "en": "Panin Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "sumut_bank",
+    "category": "digital_wallet",
+    "name": {
+      "en": "Sumut Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "sinar_mas_bank",
+    "category": "digital_wallet",
+    "name": {
+      "en": "Bank Sinarmas"
+    }
+  },
+  {
+    "status": "active",
+    "code": "btpn_bank",
+    "category": "digital_wallet",
+    "name": {
+      "en": "Bank BTPN"
+    }
+  },
+  {
+    "status": "active",
+    "code": "cimb_niaga",
+    "category": "digital_wallet",
+    "name": {
+      "en": "Bank CIMB Niaga"
+    }
+  },
+  {
+    "status": "active",
+    "code": "hsbc_bank_indonesia",
+    "category": "digital_wallet",
+    "name": {
+      "en": "HSBC Bank Indonesia"
+    }
+  },
+  {
+    "status": "active",
+    "code": "ocbc_bank_indonesia",
+    "category": "digital_wallet",
+    "name": {
+      "en": "OCBC (OCBC Bank Indonesia)"
+    }
+  },
+  {
+    "status": "active",
+    "code": "united_overseas_bank_indonesia",
+    "category": "digital_wallet",
+    "name": {
+      "en": "United Overseas Bank Indonesia"
+    }
+  },
+  {
+    "code": "mefete",
+    "category": "digital_wallet",
+    "status": "active",
+    "name": {
+      "en": "Mefete"
+    }
+  },
+  {
+    "code": "payfix",
+    "category": "digital_wallet",
+    "status": "active",
+    "name": {
+      "en": "PayFix"
+    }
+  },
+  {
+    "code": "parazula",
+    "category": "digital_wallet",
+    "status": "active",
+    "name": {
+      "en": "Parazula"
+    }
+  },
+  {
+    "code": "fups",
+    "category": "digital_wallet",
+    "status": "active",
+    "name": {
+      "en": "FUPS"
+    }
+  },
+  {
+    "code": "cmt",
+    "category": "digital_wallet",
+    "status": "active",
+    "name": {
+      "en": "CMT Wallet"
+    }
+  },
+  {
+    "code": "pep",
+    "category": "digital_wallet",
+    "status": "active",
+    "name": {
+      "en": "PeP",
+      "ru": "PeP",
+      "uk": "PeP"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_negara_indonesia_va",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank Negara Indonesia (VA)"
+    }
+  },
+  {
+    "status": "active",
+    "code": "thai_military_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Thai Military Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "cimb_thai_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "CIMB Thai Bank Public Company Limited"
+    }
+  },
+  {
+    "status": "active",
+    "code": "government_savings_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Government Savings Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "united_overseas_bank_thai",
+    "category": "bank_transfer",
+    "name": {
+      "en": "United Overseas Bank (Thai) PCL"
+    }
+  },
+  {
+    "status": "active",
+    "code": "government_housing_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Government Housing Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "hong_kong_shanghai_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Hong Kong Shanghai Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "standard_chartered_bank_thai",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Standard Chartered Bank (Thai) PCL"
+    }
+  },
+  {
+    "status": "active",
+    "code": "standard_chartered_bank",
+    "category": "online_banking",
+    "name": {
+      "en": "Standard Chartered Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "land_and_houses_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Land and Houses Bank Public Company Limited"
+    }
+  },
+  {
+    "status": "active",
+    "code": "thai_qr_payment",
+    "category": "alternative",
+    "name": {
+      "en": "Thai QR Payment"
+    }
+  },
+  {
+    "status": "active",
+    "code": "uob_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "UOB Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "banko_de_oro",
+    "category": "online_banking",
+    "name": {
+      "en": "Banko de Oro"
+    }
+  },
+  {
+    "status": "active",
+    "code": "banko_de_oro_corporate",
+    "category": "online_banking",
+    "name": {
+      "en": "Banko de Oro Corporate Account"
+    }
+  },
+  {
+    "status": "active",
+    "code": "philippine_islands_bank",
+    "category": "online_banking",
+    "name": {
+      "en": "Bank of the Philippine Islands"
+    }
+  },
+  {
+    "status": "active",
+    "code": "philippines_development_bank",
+    "category": "online_banking",
+    "name": {
+      "en": "Development bank of the Philippines"
+    }
+  },
+  {
+    "status": "active",
+    "code": "philippines_land_bank",
+    "category": "online_banking",
+    "name": {
+      "en": "Land Bank of the Philippines"
+    }
+  },
+  {
+    "status": "active",
+    "code": "eastwest_bank",
+    "category": "online_banking",
+    "name": {
+      "en": "EastWest"
+    }
+  },
+  {
+    "status": "active",
+    "code": "metro_bank",
+    "category": "online_banking",
+    "name": {
+      "en": "Metrobank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "philippine_national_bank",
+    "category": "online_banking",
+    "name": {
+      "en": "Philippine National Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "rcbc",
+    "category": "online_banking",
+    "name": {
+      "en": "Rizal Commercial Banking Corporation"
+    }
+  },
+  {
+    "status": "active",
+    "code": "philippines_security_bank",
+    "category": "online_banking",
+    "name": {
+      "en": "Security Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "sterling_bank",
+    "category": "online_banking",
+    "name": {
+      "en": "Sterling Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "union_bank",
+    "category": "online_banking",
+    "name": {
+      "en": "Unionbank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "tmbthanachart_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "TMBThanachart Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "thanachart_bank",
+    "category": "online_banking",
+    "name": {
+      "en": "Thanachat Bank (Thanachart Bank Public Company Limited)"
+    }
+  },
+  {
+    "status": "active",
+    "code": "hsbc_bank_thailand",
+    "category": "online_banking",
+    "name": {
+      "en": "THB HSBC Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "krungthai_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Krungthai Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "kiatnakin_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Kiatnakin Bank"
+    }
+  },
+  {
+    "status": "deprecated",
+    "code": "yoomoney",
+    "category": "digital_wallet",
+    "name": {
+      "en": "YooMoney",
+      "ru": "ЮМани",
+      "uk": "ЮМані"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bitexpro_wallet",
+    "category": "digital_wallet",
+    "name": {
+      "en": "BitexPRO wallet",
+      "ru": "BitexPRO wallet",
+      "uk": "BitexPRO wallet"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bitexpro_p2p",
+    "category": "digital_wallet",
+    "name": {
+      "en": "BitexPRO P2P",
+      "ru": "BitexPRO P2P",
+      "uk": "BitexPRO P2P"
+    }
+  },
+  {
+    "status": "active",
+    "code": "hero_payments",
+    "category": "digital_wallet",
+    "name": {
+      "en": "Hero Payments",
+      "ru": "Hero Payments",
+      "uk": "Hero Payments"
+    }
+  },
+  {
+    "status": "active",
+    "code": "binance_smart_chain",
+    "vendor": "binance_smart_chain",
+    "category": "alternative",
+    "name": {
+      "en": "Binance smart chain",
+      "ru": "Binance smart chain",
+      "uk": "Binance smart chain"
+    }
+  },
+  {
+    "status": "active",
+    "code": "instant_bank_transfer",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Instant Bank Transfer",
+      "ru": "Instant Bank Transfer",
+      "uk": "Instant Bank Transfer"
+    }
+  },
+  {
+    "status": "active",
+    "code": "maldo_crypto",
+    "category": "digital_wallet",
+    "name": {
+      "en": "Maldo Crypto",
+      "ru": "Maldo Crypto",
+      "uk": "Maldo Crypto"
+    }
+  },
+  {
+    "status": "active",
+    "code": "paykwik",
+    "category": "digital_wallet",
+    "name": {
+      "en": "Paykwik",
+      "ru": "Paykwik",
+      "uk": "Paykwik"
+    }
+  },
+  {
+    "status": "active",
+    "code": "astropay",
+    "category": "digital_wallet",
+    "name": {
+      "en": "Astropay",
+      "ru": "Astropay",
+      "uk": "Astropay"
+    }
+  },
+  {
+    "status": "active",
+    "code": "dai_coin",
+    "vendor": "dai_coin",
+    "category": "alternative",
+    "name": {
+      "en": "Dai Coin",
+      "ru": "Dai Coin",
+      "uk": "Dai Coin"
+    }
+  },
+  {
+    "status": "active",
+    "code": "interac_etransfer",
+    "category": "online_banking",
+    "name": {
+      "en": "Interac e-Transfer",
+      "ru": "Interac e-Transfer",
+      "uk": "Interac e-Transfer"
+    }
+  },
+  {
+    "status": "active",
+    "code": "va_mandiri",
+    "vendor": "mandiri_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Mandiri Virtual Account",
+      "ru": "Mandiri Virtual Account",
+      "uk": "Mandiri Virtual Account"
+    }
+  },
+  {
+    "status": "active",
+    "code": "kookmin_bank",
+    "vendor": "kookmin_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Kookmin Bank",
+      "ru": "Kookmin Bank",
+      "uk": "Kookmin Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "keb_hana_bank",
+    "vendor": "keb_hana_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "KEB Hana Bank",
+      "ru": "KEB Hana Bank",
+      "uk": "KEB Hana Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "nhbank_bank",
+    "vendor": "nhbank_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Nonghyup Bank",
+      "ru": "Nonghyup Bank",
+      "uk": "Nonghyup Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "nonghyup_bank",
+    "vendor": "nonghyup_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "National Agricultural cooperative federation",
+      "ru": "National Agricultural cooperative federation",
+      "uk": "National Agricultural cooperative federation"
+    }
+  },
+  {
+    "status": "active",
+    "code": "sc_first_bank",
+    "vendor": "sc_first_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Standard Chartered Korea",
+      "ru": "Standard Chartered Korea",
+      "uk": "Standard Chartered Korea"
+    }
+  },
+  {
+    "status": "active",
+    "code": "korea_post_bank",
+    "vendor": "korea_post_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Post Bank",
+      "ru": "Post Bank",
+      "uk": "Post Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "kyongnam_bank",
+    "vendor": "kyongnam_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "BNK Kyongnam Bank",
+      "ru": "BNK Kyongnam Bank",
+      "uk": "BNK Kyongnam Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "kwangju_bank",
+    "vendor": "kwangju_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Kwangju Bank",
+      "ru": "Kwangju Bank",
+      "uk": "Kwangju Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "daegu_bank",
+    "vendor": "daegu_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "DGB Daegu Bank",
+      "ru": "DGB Daegu Bank",
+      "uk": "DGB Daegu Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "busan_bank",
+    "vendor": "busan_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "BNK Busan Bank",
+      "ru": "BNK Busan Bank",
+      "uk": "BNK Busan Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "kdb_bank",
+    "vendor": "kdb_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Korea Development Bank",
+      "ru": "Korea Development Bank",
+      "uk": "Korea Development Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "kfcc_bank",
+    "vendor": "kfcc_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Korean Federation of Community Credit",
+      "ru": "Korean Federation of Community Credit",
+      "uk": "Korean Federation of Community Credit"
+    }
+  },
+  {
+    "status": "active",
+    "code": "suhyup_bank",
+    "vendor": "suhyup_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Suhyup Bank",
+      "ru": "Suhyup Bank",
+      "uk": "Suhyup Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "credit_union_bank",
+    "vendor": "credit_union_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "National Credit Union Federation of Korea",
+      "ru": "National Credit Union Federation of Korea",
+      "uk": "National Credit Union Federation of Korea"
+    }
+  },
+  {
+    "status": "active",
+    "code": "jeonbuk_bank",
+    "vendor": "jeonbuk_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "The Jeonbuk Bank Ltd",
+      "ru": "The Jeonbuk Bank Ltd",
+      "uk": "The Jeonbuk Bank Ltd"
+    }
+  },
+  {
+    "status": "active",
+    "code": "jeju_bank",
+    "vendor": "jeju_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Jeju Bank",
+      "ru": "Jeju Bank",
+      "uk": "Jeju Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "daishin_bank",
+    "vendor": "daishin_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Daishin Savings Bank",
+      "ru": "Daishin Savings Bank",
+      "uk": "Daishin Savings Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "db_financial_investment_bank",
+    "vendor": "db_financial_investment_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "DB FINANCIAL INVESTMENT CO.",
+      "ru": "DB FINANCIAL INVESTMENT CO.",
+      "uk": "DB FINANCIAL INVESTMENT CO."
+    }
+  },
+  {
+    "status": "active",
+    "code": "yuanta_bank",
+    "vendor": "yuanta_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Yuanta Financial Holding",
+      "ru": "Yuanta Financial Holding",
+      "uk": "Yuanta Financial Holding"
+    }
+  },
+  {
+    "status": "active",
+    "code": "meritz_bank",
+    "vendor": "meritz_bank",
+    "category": "bank_transfer",
+    "name": {
+        "en": "Meritz Securities Co. Ltd",
+        "ru": "Meritz Securities Co. Ltd",
+        "uk": "Meritz Securities Co. Ltd"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bookook_bank",
+    "vendor": "bookook_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bookook Securities Co. Ltd",
+      "ru": "Bookook Securities Co. Ltd",
+      "uk": "Bookook Securities Co. Ltd"
+    }
+  },
+  {
+    "status": "active",
+    "code": "nhqv_bank",
+    "vendor": "nhqv_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "NH Investment Securities",
+      "ru": "NH Investment Securities",
+      "uk": "NH Investment Securities"
+    }
+  },
+  {
+    "status": "active",
+    "code": "ebest_investment_bank",
+    "vendor": "ebest_investment_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "EBEST Investment Securities",
+      "ru": "EBEST Investment Securities",
+      "uk": "EBEST Investment Securities"
+    }
+  },
+  {
+    "status": "active",
+    "code": "kiwoom_bank",
+    "vendor": "kiwoom_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "KIWOOM SECURITIES CO LTD",
+      "ru": "KIWOOM SECURITIES CO LTD",
+      "uk": "KIWOOM SECURITIES CO LTD"
+    }
+  },
+  {
+    "status": "active",
+    "code": "hana_financial_bank",
+    "vendor": "hana_financial_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "HANA FINANCIAL INVESTMENT CO. LTD",
+      "ru": "HANA FINANCIAL INVESTMENT CO. LTD",
+      "uk": "HANA FINANCIAL INVESTMENT CO. LTD"
+    }
+  },
+  {
+    "status": "active",
+    "code": "hanwha_bank",
+    "vendor": "hanwha_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "HANWHA LIFE INSURANCE",
+      "ru": "HANWHA LIFE INSURANCE",
+      "uk": "HANWHA LIFE INSURANCE"
+    }
+  },
+  {
+    "status": "active",
+    "code": "kbfg_bank",
+    "vendor": "kbfg_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "KB Financial Group",
+      "ru": "KB Financial Group",
+      "uk": "KB Financial Group"
+    }
+  },
+  {
+    "status": "active",
+    "code": "kakaopay_bank",
+    "vendor": "kakaopay_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Kakaopay Securities Corp.",
+      "ru": "Kakaopay Securities Corp.",
+      "uk": "Kakaopay Securities Corp."
+    }
+  },
+  {
+    "status": "active",
+    "code": "bnk_bank",
+    "vendor": "bnk_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "BNK Securities Co. Ltd",
+      "ru": "BNK Securities Co. Ltd",
+      "uk": "BNK Securities Co. Ltd"
+    }
+  },
+  {
+    "status": "active",
+    "code": "ktb_bank",
+    "vendor": "ktb_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "KTB Investment Securities",
+      "ru": "KTB Investment Securities",
+      "uk": "KTB Investment Securities"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bnpparibas_bank",
+    "vendor": "bnpparibas_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "BNP Paribas for the Republic of Korea",
+      "ru": "BNP Paribas for the Republic of Korea",
+      "uk": "BNP Paribas for the Republic of Korea"
+    }
+  },
+  {
+    "status": "active",
+    "code": "kakao_bank",
+    "vendor": "kakao_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "KakaoBank Corp.",
+      "ru": "KakaoBank Corp.",
+      "uk": "KakaoBank Corp."
+    }
+  },
+  {
+    "status": "active",
+    "code": "k_bank",
+    "vendor": "k_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "K Bank",
+      "ru": "K Bank",
+      "uk": "K Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "toss_bank",
+    "vendor": "toss_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Toss Bank",
+      "ru": "Toss Bank",
+      "uk": "Toss Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "korea_foss_bank",
+    "vendor": "korea_foss_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Korea Foss Securities",
+      "ru": "Korea Foss Securities",
+      "uk": "Korea Foss Securities"
+    }
+  },
+  {
+    "status": "active",
+    "code": "gcash",
+    "vendor": "gcash",
+    "category": "digital_wallet",
+    "name": {
+      "en": "GCash",
+      "ru": "GCash",
+      "uk": "GCash"
+    }
+  },
+  {
+    "status": "active",
+    "code": "pay_maya",
+    "category": "online_banking",
+    "name": {
+      "en": "Maya Philippines",
+      "ru": "Maya Philippines",
+      "uk": "Maya Philippines"
+    }
+  },
+  {
+    "status": "active",
+    "code": "easypaisa",
+    "vendor": "easypaisa",
+    "category": "digital_wallet",
+    "name": {
+      "en": "Easypaisa",
+      "ru": "Easypaisa",
+      "uk": "Easypaisa"
+    }
+  },
+  {
+    "status": "active",
+    "code": "jazzcash",
+    "vendor": "jazzcash",
+    "category": "digital_wallet",
+    "name": {
+      "en": "JazzCash",
+      "ru": "JazzCash",
+      "uk": "JazzCash"
+    }
+  },
+  {
+    "status": "active",
+    "code": "wise",
+    "vendor": "wise",
+    "category": "online_banking",
+    "name": {
+      "en": "Wise",
+      "ru": "Wise",
+      "uk": "Wise"
+    }
+  },
+  {
+    "status": "active",
+    "code": "phonepe",
+    "vendor": "phonepe",
+    "category": "digital_wallet",
+    "name": {
+      "en": "Phonepe Wallet"
+    }
+  },
+  {
+    "status":"active",
+    "code":"3_line",
+    "category":"bank_transfer",
+    "name":{
+      "en":"3Line"
+    }
+  },
+  {
+    "status":"active",
+    "code":"ab_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Ab MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"abbey_mortgage_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Abbey Mortgage Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"above_only_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Above Only MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"abu_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Abu MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"access_bank_nigeria",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Access Bank Nigeria"
+    }
+  },
+  {
+    "status":"active",
+    "code":"access_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en": "Access Bank",
+      "ru": "Access Bank",
+      "uk": "Access Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"access_yelloand_beta",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Access Yello and Beta"
+    }
+  },
+  {
+    "status":"active",
+    "code":"accessmoney",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Accessmoney"
+    }
+  },
+  {
+    "status":"active",
+    "code":"accion_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Accion MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"addosser_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Addosser MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"adeyemi_college_staff_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Adeyemi College Staff MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"afekhafe_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Afekhafe MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"ag_mortgage_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Ag Mortgage Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"al_barkah_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Al-Barkah MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"al_hayat_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Al-Hayat MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"alekun_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Alekun MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"alert_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Alert MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"allworkers_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Allworkers MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"alpha_kapital_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Alpha Kapital MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"amju_unique_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Amju Unique MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"amml_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"AMML MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"apeks_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Apeks MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"arise_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Arise MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"aso_savings_and_loans",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Aso Savings And Loans"
+    }
+  },
+  {
+    "status":"active",
+    "code":"assetmatrix_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Assetmatrix MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"astrapolaris_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Astrapolaris MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"auchi_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Auchi MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"baines_credit_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Baines Credit MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"balogun_gambari_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Balogun Gambari MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"baobab_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Baobab MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"bc_kash_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"BC Kash MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"boctrust_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Boctrust MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"bosak_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Bosak MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"bowen_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Bowen MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"brent_mortgage_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Brent Mortgage Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"brethren_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Brethren MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"brightway_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Brightway MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"cellulant",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Cellulant"
+    }
+  },
+  {
+    "status":"active",
+    "code":"cemcs_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"CEMCS MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"chikum_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Chikum MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"cit_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"CIT MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"citibank_nigeria",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Citibank Nigeria"
+    }
+  },
+  {
+    "status":"active",
+    "code":"consumer_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Consumer MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"contec_global_infotech",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Contec Global Infotech"
+    }
+  },
+  {
+    "status":"active",
+    "code":"coronation_merchant_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Coronation Merchant Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"covenant",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Covenant"
+    }
+  },
+  {
+    "status":"active",
+    "code":"credit_afrique_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Credit Afrique MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"daylight_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Daylight MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"ebarcs_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"E-Barcs MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"eagle_flight_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Eagle Flight MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"eartholeum",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Eartholeum"
+    }
+  },
+  {
+    "status":"active",
+    "code":"ecobank_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Ecobank Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"ecobank_xpress",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Ecobank Xpress"
+    }
+  },
+  {
+    "status":"active",
+    "code":"edfin_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"EdFin MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"ekondo_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Ekondo MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"emeralds_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Emeralds MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"empire_trust_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Empire Trust MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"esan_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Esan MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"esoe_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Eso-E MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"etranzact",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Etranzact"
+    }
+  },
+  {
+    "status":"active",
+    "code":"evangel_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Evangel MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"fast_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Fast MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"fbn_quest_merchant_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"FBNQuest Merchant Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"fcmb_easy_account",
+    "category":"bank_transfer",
+    "name":{
+      "en":"FCMB Easy Account"
+    }
+  },
+  {
+    "status":"active",
+    "code":"fct_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"FCT MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"federal_university_dutse_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Federal University Dutse MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"fedpoly_nasarawa_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Fedpoly Nasarawa MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"fets",
+    "category":"bank_transfer",
+    "name":{
+      "en":"FETS"
+    }
+  },
+  {
+    "status":"active",
+    "code":"ffs_microfinance",
+    "category":"bank_transfer",
+    "name":{
+      "en":"FFS Microfinance"
+    }
+  },
+  {
+    "status":"active",
+    "code":"fidelity_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Fidelity Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"fidelity_mobile",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Fidelity Mobile"
+    }
+  },
+  {
+    "status":"active",
+    "code":"fidfund_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Fidfund MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"finatrust_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Finatrust MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"first_apple",
+    "category":"bank_transfer",
+    "name":{
+      "en":"First Apple"
+    }
+  },
+  {
+    "status":"active",
+    "code":"first_bankof_nigeria",
+    "category":"bank_transfer",
+    "name":{
+      "en":"First Bank of Nigeria"
+    }
+  },
+  {
+    "status":"active",
+    "code":"first_city_monument_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"First City Monument Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"first_gen_mortgage_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"First Gen Mortgage Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"first_multiple_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"First Multiple MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"first_option_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"First Option MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"first_royal_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"First Royal MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"first_trust_mortgage_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"First Trust Mortgage Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"firstmonie_wallet",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Firstmonie Wallet"
+    }
+  },
+  {
+    "status":"active",
+    "code":"flutterwave_tech_solutions",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Flutterwave Tech Solutions"
+    }
+  },
+  {
+    "status":"active",
+    "code":"fortis_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Fortis MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"fortis_mobile",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Fortis Mobile"
+    }
+  },
+  {
+    "status":"active",
+    "code":"fsdh_merchant_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"FSDH Merchant Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"full_range_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Full Range MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"futo_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Futo MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"gashua_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Gashua MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"gateway_mortgage_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Gateway Mortgage Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"globus_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Globus Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"glory_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Glory MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"gomoney",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Gomoney"
+    }
+  },
+  {
+    "status":"active",
+    "code":"gowans_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Gowans MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"greenbank_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Greenbank MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"greenville_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Greenville MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"grooming_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Grooming MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"gt_mobile_money",
+    "category":"bank_transfer",
+    "name":{
+      "en":"GT Mobile Money"
+    }
+  },
+  {
+    "status":"active",
+    "code":"guaranty_trust_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Guaranty Trust Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"hackman_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Hackman MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"haggai_mortgage_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Haggai Mortgage Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"hala_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Hala MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"hasal_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Hasal MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"hedonmark",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Hedonmark"
+    }
+  },
+  {
+    "status":"active",
+    "code":"heritage_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Heritage Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"ibile_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Ibile MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"ikire_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Ikire MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"imo_state_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Imo State MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"imperial_homes_mortgage_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Imperial Homes Mortgage Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"infinity_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Infinity MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"infinity_trust_mortgage_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Infinity Trust Mortgage Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"innovectives_kesh",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Innovectives Kesh"
+    }
+  },
+  {
+    "status":"active",
+    "code":"interswitch",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Interswitch"
+    }
+  },
+  {
+    "status":"active",
+    "code":"irl_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"IRL MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"itex_integrated_services",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Itex Integrated Services"
+    }
+  },
+  {
+    "status":"active",
+    "code":"jaiz_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Jaiz Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"jubilee_life",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Jubilee Life"
+    }
+  },
+  {
+    "status":"active",
+    "code":"kadpoly_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Kadpoly MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"kcmb_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"KCMB MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"kegow",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Kegow"
+    }
+  },
+  {
+    "status":"active",
+    "code":"keystone_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Keystone Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"kontagora_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Kontagora MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"kredi_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Kredi Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"kuda_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Kuda MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"la_fayette_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"La Fayette MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"lagos_building_investment_company",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Lagos Building Investment Company"
+    }
+  },
+  {
+    "status":"active",
+    "code":"lapo_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"LAPO MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"lavender_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Lavender MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"lovonus_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Lovonus MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"m_kudi",
+    "category":"bank_transfer",
+    "name":{
+      "en":"M-Kudi"
+    }
+  },
+  {
+    "status":"active",
+    "code":"mainstreet_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Mainstreet MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"malachy_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Malachy MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"megapraise_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Megapraise MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"microvis_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Microvis MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"midland_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Midland MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"mimoney_intellifin_solutions",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Mimoney Intellifin Solutions"
+    }
+  },
+  {
+    "status":"active",
+    "code":"mint_finex_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Mint-Finex MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"money_trust_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Money Trust MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"moneybox",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Moneybox"
+    }
+  },
+  {
+    "status":"active",
+    "code":"mutual_benefits_mifb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Mutual Benefits Mifb"
+    }
+  },
+  {
+    "status":"active",
+    "code":"mutual_trust_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Mutual Trust MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"nargata_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Nargata MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"ndiorah_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Ndiorah MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"new_dawn_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"New Dawn MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"new_prudential_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"New Prudential Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"nigerian_navy_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Nigerian Navy MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"nigerian_police_force_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Nigerian Police Force MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"nirsal_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Nirsal MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"nnew_women_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Nnew Women MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"nova_merchant_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Nova Merchant Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"ohafia_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Ohafia MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"okpoga_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Okpoga MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"olabisi_onabanjo_university_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Olabisi Onabanjo University MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"omiye_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Omiye MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"omoluabi_mortgage_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Omoluabi Mortgage Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"one_finance",
+    "category":"bank_transfer",
+    "name":{
+      "en":"One Finance"
+    }
+  },
+  {
+    "status":"active",
+    "code":"paga",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Paga"
+    }
+  },
+  {
+    "status":"active",
+    "code":"page_financials",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Page Financials"
+    }
+  },
+  {
+    "status":"active",
+    "code":"palmpay",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Palmpay"
+    }
+  },
+  {
+    "status":"active",
+    "code":"parallex_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Parallex MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"parkway_readycash",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Parkway-Readycash"
+    }
+  },
+  {
+    "status":"active",
+    "code":"patrickgold_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Patrickgold MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"payattitude_online",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Payattitude Online"
+    }
+  },
+  {
+    "status":"active",
+    "code":"paycom",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Paycom"
+    }
+  },
+  {
+    "status":"active",
+    "code":"paystack_payments",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Paystack Payments"
+    }
+  },
+  {
+    "status":"active",
+    "code":"pecantrust_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Pecantrust MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"pennywise_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Pennywise MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"personal_trust_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Personal Trust MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"petra_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Petra MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"pillar_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Pillar MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"platinum_mortgage_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Platinum Mortgage Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"polaris_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Polaris Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"polyuwana_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Polyuwana MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"prestige_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Prestige MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"providus_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Providus Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"purplemoney_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Purplemoney MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"quickfund_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Quickfund MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"rahama_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Rahama MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"rand_merchant_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Rand Merchant Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"refuge_mortgage_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Refuge Mortgage Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"regent_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Regent MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"reliance_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Reliance MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"renmoney_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Renmoney MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"richway_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Richway MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"rolez_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Rolez Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"royal_exchange_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Royal Exchange MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"rubies_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Rubies MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"safe_haven_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Safe Haven MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"safetrust_mortgage_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Safetrust Mortgage Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"sagamu_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Sagamu MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"seed_capital_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Seed Capital MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"sparkle_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Sparkle Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"stanbic_ibtc",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Stanbic IBTC"
+    }
+  },
+  {
+    "status":"active",
+    "code":"stanbic_ibtc_ease_wal",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Stanbic IBTC Ease Wal"
+    }
+  },
+  {
+    "status":"active",
+    "code":"stanford_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Stanford MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"stellas_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Stellas MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"sulspap_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Sulspap MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"suntrust_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Suntrust Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"tagpay",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Tagpay"
+    }
+  },
+  {
+    "status":"active",
+    "code":"taj_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Taj Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"tcf_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"TCF MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"team_apt",
+    "category":"bank_transfer",
+    "name":{
+      "en":"TeamApt"
+    }
+  },
+  {
+    "status":"active",
+    "code":"teasy_mobile",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Teasy Mobile"
+    }
+  },
+  {
+    "status":"active",
+    "code":"titan_trust_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Titan Trust Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"trident_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Trident MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"trustbank_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Trustbank MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"trustfund_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Trustfund MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"uniben_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"UNIBEN MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"unical_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"UNICAL MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"union_bankof_nigeria",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Union Bank of Nigeria"
+    }
+  },
+  {
+    "status":"active",
+    "code":"united_bankfor_africa",
+    "category":"bank_transfer",
+    "name":{
+      "en":"United Bank of Africa"
+    }
+  },
+  {
+    "status":"active",
+    "code":"unity_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Unity Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"safaricom",
+    "category":"mobile_payment",
+    "name":{
+      "en":"Safaricom"
+    }
+  },
+  {
+    "status":"active",
+    "code":"equitel",
+    "category":"mobile_payment",
+    "name":{
+      "en":"Equitel"
+    }
+  },
+  {
+    "status":"active",
+    "code":"airteltigo",
+    "category":"mobile_payment",
+    "name":{
+      "en":"AirtelTigo"
+    }
+  },
+  {
+    "status":"active",
+    "code":"vodafone_cash",
+    "category":"digital_wallet",
+    "name":{
+      "en":"Vodafone Cash"
+    }
+  },
+  {
+    "status":"active",
+    "code":"mtn_group",
+    "category":"mobile_payment",
+    "name":{
+      "en":"MTN Group"
+    }
+  },
+  {
+    "status":"active",
+    "code":"vodafone_ghana",
+    "category":"mobile_payment",
+    "name":{
+      "en":"Vodafone Ghana"
+    }
+  },
+  {
+    "status":"active",
+    "code":"vodafone_egypt",
+    "category":"mobile_payment",
+    "name":{
+      "en":"Vodafone Egypt"
+    }
+  },
+  {
+    "status":"active",
+    "code":"ecocash",
+    "category":"mobile_payment",
+    "name":{
+      "en":"EcoCash"
+    }
+  },
+  {
+    "status":"active",
+    "code":"orange_money",
+    "category":"mobile_payment",
+    "name":{
+      "en":"Orange Money"
+    }
+  },
+  {
+    "status":"active",
+    "code":"zamtel",
+    "category":"mobile_payment",
+    "name":{
+      "en":"Zamtel"
+    }
+  },
+  {
+    "status":"active",
+    "code":"fnb_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"FNB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"absa_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Absa Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"mercantile_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Mercantile Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"first_national_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"First National Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"standard_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Standard Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"ned_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Nedbank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"capitec_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Capitec Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"investec_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Investec"
+    }
+  },
+  {
+    "status":"active",
+    "code":"unn_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Unn MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"vfd_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"VFD MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"virtue_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Virtue MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"visa_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Visa MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"vtnetwork",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Vtnetwork"
+    }
+  },
+  {
+    "status":"active",
+    "code":"wema_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Wema Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"wetland_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Wetland MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"xslnce_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Xslnce MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"yes_mfb",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Yes MFB"
+    }
+  },
+  {
+    "status":"active",
+    "code":"zenith_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Zenith Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"zenith_mobile",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Zenith Mobile"
+    }
+  },
+  {
+    "status":"active",
+    "code":"zinternet",
+    "category":"bank_transfer",
+    "name":{
+      "en":"Zinternet"
+    }
+  },
+  {
+    "status": "active",
+    "code": "maharashtra_bank_india",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank of Maharashtra",
+      "ru": "Bank of Maharashtra",
+      "uk": "Bank of Maharashtra"
+    }
+  },
+  {
+    "status": "active",
+    "code": "central_bank_of_india",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Central Bank of India",
+      "ru": "Central Bank of India",
+      "uk": "Central Bank of India"
+    }
+  },
+  {
+    "status": "active",
+    "code": "canara_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Canara Bank",
+      "ru": "Canara Bank",
+      "uk": "Canara Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_of_india",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank of India",
+      "ru": "Bank of India",
+      "uk": "Bank of India"
+    }
+  },
+  {
+    "status": "active",
+    "code": "city_union_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "City Union Bank",
+      "ru": "City Union Bank",
+      "uk": "City Union Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "indian_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Indian Bank",
+      "ru": "Indian Bank",
+      "uk": "Indian Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "indian_overseas_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Indian Overseas Bank",
+      "ru": "Indian Overseas Bank",
+      "uk": "Indian Overseas Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "karurvysya_bank_india",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Karur Vysya Bank",
+      "ru": "Karur Vysya Bank",
+      "uk": "Karur Vysya Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "south_indian_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "South Indian Bank",
+      "ru": "South Indian Bank",
+      "uk": "South Indian Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "union_bank_of_india",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Union Bank Of India",
+      "ru": "Union Bank Of India",
+      "uk": "Union Bank Of India"
+    }
+  },
+  {
+    "status": "active",
+    "code": "yes_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Yes Bank",
+      "ru": "Yes Bank",
+      "uk": "Yes Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "andhra_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Andhra Bank",
+      "ru": "Andhra Bank",
+      "uk": "Andhra Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "andhra_pragathi_grameena_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Andhra Pragathi Grameena Bank",
+      "ru": "Andhra Pragathi Grameena Bank",
+      "uk": "Andhra Pragathi Grameena Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "uco_bank_india",
+    "category": "bank_transfer",
+    "name": {
+      "en": "UCO Bank",
+      "ru": "UCO Bank",
+      "uk": "UCO Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "allahabad_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Allahabad Bank",
+      "ru": "Allahabad Bank",
+      "uk": "Allahabad Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "punjab_national_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Punjab National Bank",
+      "ru": "Punjab National Bank",
+      "uk": "Punjab National Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "deutsche_bank_india",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Deutsche Bank",
+      "ru": "Deutsche Bank",
+      "uk": "Deutsche Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "equitas_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Equitas Bank",
+      "ru": "Equitas Bank",
+      "uk": "Equitas Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "rbl_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Rbl Bank",
+      "ru": "Rbl Bank",
+      "uk": "Rbl Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "dbs_bank_india",
+    "category": "bank_transfer",
+    "name": {
+      "en": "DBS Bank LTD",
+      "ru": "DBS Bank LTD",
+      "uk": "DBS Bank LTD"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_bjb",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank BJB",
+      "ru": "Bank BJB",
+      "uk": "Bank BJB"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_dki",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank DKI",
+      "ru": "Bank DKI",
+      "uk": "Bank DKI"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_bpd_diy",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank BPD DIY",
+      "ru": "Bank BPD DIY",
+      "uk": "Bank BPD DIY"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_jateng",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank Jateng",
+      "ru": "Bank Jateng",
+      "uk": "Bank Jateng"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_jatim",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank Jatim",
+      "ru": "Bank Jatim",
+      "uk": "Bank Jatim"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_nagari",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank Nagari",
+      "ru": "Bank Nagari",
+      "uk": "Bank Nagari"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_riau_kepri",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank Riau Kepri",
+      "ru": "Bank Riau Kepri",
+      "uk": "Bank Riau Kepri"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_sumselbabel",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank Sumselbabel",
+      "ru": "Bank Sumselbabel",
+      "uk": "Bank Sumselbabel"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_kalbar",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank Kalbar",
+      "ru": "Bank Kalbar",
+      "uk": "Bank Kalbar"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_kaltimtara",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank Kaltimtara",
+      "ru": "Bank Kaltimtara",
+      "uk": "Bank Kaltimtara"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_kalteng",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank Kalteng",
+      "ru": "Bank Kalteng",
+      "uk": "Bank Kalteng"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_sulselbar",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank Sulselbar",
+      "ru": "Bank Sulselbar",
+      "uk": "Bank Sulselbar"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_bpd_bali",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank BPD Bali",
+      "ru": "Bank BPD Bali",
+      "uk": "Bank BPD Bali"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_maluku_malut",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank Maluku Malut",
+      "ru": "Bank Maluku Malut",
+      "uk": "Bank Maluku Malut"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_papua",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank Papua",
+      "ru": "Bank Papua",
+      "uk": "Bank Papua"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_banten",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank Banten",
+      "ru": "Bank Banten",
+      "uk": "Bank Banten"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_bnp",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank BNP",
+      "ru": "Bank BNP",
+      "uk": "Bank BNP"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_muamalat",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank Muamalat",
+      "ru": "Bank Muamalat",
+      "uk": "Bank Muamalat"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_qnb_indonesia",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank QNB Indonesia",
+      "ru": "Bank QNB Indonesia",
+      "uk": "Bank QNB Indonesia"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_woori_saudara",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank Woori Saudara",
+      "ru": "Bank Woori Saudara",
+      "uk": "Bank Woori Saudara"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_jasa_jakarta",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank Jasa Jakarta",
+      "ru": "Bank Jasa Jakarta",
+      "uk": "Bank Jasa Jakarta"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_keb_hana_indonesia",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank KEB Hana Indonesia",
+      "ru": "Bank KEB Hana Indonesia",
+      "uk": "Bank KEB Hana Indonesia"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_mnc",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank MNC",
+      "ru": "Bank MNC",
+      "uk": "Bank MNC"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_sbi_indonesia",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank SBI Indonesia",
+      "ru": "Bank SBI Indonesia",
+      "uk": "Bank SBI Indonesia"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_digital_bca",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank Digital BCA (Blu) / Bank Royal",
+      "ru": "Bank Digital BCA (Blu) / Bank Royal",
+      "uk": "Bank Digital BCA (Blu) / Bank Royal"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_nationalnobu",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank National Nobu",
+      "ru": "Bank National Nobu",
+      "uk": "Bank National Nobu"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_ina_perdana",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank Ina Perdana",
+      "ru": "Bank Ina Perdana",
+      "uk": "Bank Ina Perdana"
+    }
+  },
+  {
+    "status": "active",
+    "code": "prima_master_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Prima Master Bank",
+      "ru": "Prima Master Bank",
+      "uk": "Prima Master Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_sahabat_sampoerna",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank Sahabat Sampoerna",
+      "ru": "Bank Sahabat Sampoerna",
+      "uk": "Bank Sahabat Sampoerna"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_multiarta_sentosa",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank Multiarta Sentosa",
+      "ru": "Bank Multiarta Sentosa",
+      "uk": "Bank Multiarta Sentosa"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_index",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank Index Selindo",
+      "ru": "Bank Index Selindo",
+      "uk": "Bank Index Selindo"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_victoria",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank Victoria",
+      "ru": "Bank Victoria",
+      "uk": "Bank Victoria"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_harda_internasional",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank Harda Internasional",
+      "ru": "Bank Harda Internasional",
+      "uk": "Bank Harda Internasional"
+    }
+  },
+  {
+    "status": "active",
+    "code": "ibk_bank_indonesia",
+    "category": "bank_transfer",
+    "name": {
+      "en": "IBK Bank Indonesia",
+      "ru": "IBK Bank Indonesia",
+      "uk": "IBK Bank Indonesia"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_ctbc_indonesia",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank CTBC Indonesia",
+      "ru": "Bank CTBC Indonesia",
+      "uk": "Bank CTBC Indonesia"
+    }
+  },
+  {
+    "status": "active",
+    "code": "citibank_indonesia",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Citibank Indonesia",
+      "ru": "Citibank Indonesia",
+      "uk": "Citibank Indonesia"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_ccb_indonesia",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank CCB Indonesia",
+      "ru": "Bank CCB Indonesia",
+      "uk": "Bank CCB Indonesia"
+    }
+  },
+  {
+    "status": "active",
+    "code": "mufg_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "MUFG Bank",
+      "ru": "MUFG Bank",
+      "uk": "MUFG Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_dbs_indonesia",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank DBS Indonesia",
+      "ru": "Bank DBS Indonesia",
+      "uk": "Bank DBS Indonesia"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_capital_indonesia",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank Capital Indonesia",
+      "ru": "Bank Capital Indonesia",
+      "uk": "Bank Capital Indonesia"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_of_china_jakarta_branch",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank of China Jakarta Branch",
+      "ru": "Bank of China Jakarta Branch",
+      "uk": "Bank of China Jakarta Branch"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_bumi_arta",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank Bumi Arta",
+      "ru": "Bank Bumi Arta",
+      "uk": "Bank Bumi Arta"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_rabobank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank Rabobank",
+      "ru": "Bank Rabobank",
+      "uk": "Bank Rabobank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_jtrust_indonesia",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank Jtrust Indonesia",
+      "ru": "Bank Jtrust Indonesia",
+      "uk": "Bank Jtrust Indonesia"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_mayapada",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank Mayapada",
+      "ru": "Bank Mayapada",
+      "uk": "Bank Mayapada"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_idrk",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank IDRK",
+      "ru": "Bank IDRK",
+      "uk": "Bank IDRK"
+    }
+  },
+  {
+    "status": "active",
+    "code": "pg_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "PG Bank",
+      "ru": "PG Bank",
+      "uk": "PG Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "momiji_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Momiji Bank",
+      "ru": "Momiji Bank",
+      "uk": "Momiji Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "smbc_trust_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "SMBC Trust Bank Ltd.",
+      "ru": "SMBC Trust Bank Ltd.",
+      "uk": "SMBC Trust Bank Ltd."
+    }
+  },
+  {
+    "status": "active",
+    "code": "nagasaki_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Nagasaki Bank",
+      "ru": "Nagasaki Bank",
+      "uk": "Nagasaki Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "77_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "77 Bank",
+      "ru": "77 Bank",
+      "uk": "77 Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "chiba_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Chiba Bank",
+      "ru": "Chiba Bank",
+      "uk": "Chiba Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "shinsei_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Shinsei Bank",
+      "ru": "Shinsei Bank",
+      "uk": "Shinsei Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "kitakyushu_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Kitakyushu Bank",
+      "ru": "Kitakyushu Bank",
+      "uk": "Kitakyushu Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "aeon_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Aeon Bank",
+      "ru": "Aeon Bank",
+      "uk": "Aeon Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_of_america_corporation",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank of America Corporation",
+      "ru": "Bank of America Corporation",
+      "uk": "Bank of America Corporation"
+    }
+  },
+  {
+    "status": "active",
+    "code": "tama_shinkin_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Tama Shinkin Bank",
+      "ru": "Tama Shinkin Bank",
+      "uk": "Tama Shinkin Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "shiga_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Shiga Bank",
+      "ru": "Shiga Bank",
+      "uk": "Shiga Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "chiba_kogyo_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Chiba Kogyo Bank",
+      "ru": "Chiba Kogyo Bank",
+      "uk": "Chiba Kogyo Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "hiroshima_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Hiroshima Bank",
+      "ru": "Hiroshima Bank",
+      "uk": "Hiroshima Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "mizuho_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Mizuho Bank",
+      "ru": "Mizuho Bank",
+      "uk": "Mizuho Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "aichi_doctors_credit_cooperative",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Aichi Doctors Credit Cooperative",
+      "ru": "Aichi Doctors Credit Cooperative",
+      "uk": "Aichi Doctors Credit Cooperative"
+    }
+  },
+  {
+    "status": "active",
+    "code": "hyaku_jyushi_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Hyaku Jyushi Bank",
+      "ru": "Hyaku Jyushi Bank",
+      "uk": "Hyaku Jyushi Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "ikeda_senshu_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Ikeda Senshu Bank",
+      "ru": "Ikeda Senshu Bank",
+      "uk": "Ikeda Senshu Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "jpmorgan_chase_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "JPMorgan Chase Bank",
+      "ru": "JPMorgan Chase Bank",
+      "uk": "JPMorgan Chase Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "amagasaki_shinkin_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Amagasaki Shinkin Bank",
+      "ru": "Amagasaki Shinkin Bank",
+      "uk": "Amagasaki Shinkin Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "michinoku_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Michinoku Bank",
+      "ru": "Michinoku Bank",
+      "uk": "Michinoku Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "daito_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Daito Bank",
+      "ru": "Daito Bank",
+      "uk": "Daito Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "miyazaki_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Miyazaki Bank",
+      "ru": "Miyazaki Bank",
+      "uk": "Miyazaki Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "kirayaka_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Kirayaka Bank",
+      "ru": "Kirayaka Bank",
+      "uk": "Kirayaka Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "jouyou_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Jouyou Bank",
+      "ru": "Jouyou Bank",
+      "uk": "Jouyou Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "osaka_shinkin_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Osaka Shinkin Bank",
+      "ru": "Osaka Shinkin Bank",
+      "uk": "Osaka Shinkin Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "abashiri_shinkin_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Abashiri Shinkin Bank",
+      "ru": "Abashiri Shinkin Bank",
+      "uk": "Abashiri Shinkin Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "aomori_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Aomori Bank",
+      "ru": "Aomori Bank",
+      "uk": "Aomori Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "tochigi_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Tochigi Bank",
+      "ru": "Tochigi Bank",
+      "uk": "Tochigi Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "tohoku_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Tohoku Bank",
+      "ru": "Tohoku Bank",
+      "uk": "Tohoku Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "kanagawa_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Kanagawa Bank",
+      "ru": "Kanagawa Bank",
+      "uk": "Kanagawa Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "shimizu_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Shimizu Bank",
+      "ru": "Shimizu Bank",
+      "uk": "Shimizu Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "iyo_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Iyo Bank",
+      "ru": "Iyo Bank",
+      "uk": "Iyo Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "ashikaga_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Ashikaga Bank",
+      "ru": "Ashikaga Bank",
+      "uk": "Ashikaga Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "daisan_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Daisan Bank",
+      "ru": "Daisan Bank",
+      "uk": "Daisan Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "kiyou_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Kiyou Bank",
+      "ru": "Kiyou Bank",
+      "uk": "Kiyou Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "chukyo_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Chukyo Bank",
+      "ru": "Chukyo Bank",
+      "uk": "Chukyo Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "hsbc_hong_kong",
+    "category": "bank_transfer",
+    "name": {
+      "en": "The Hongkong and Shanghai Banking Corporation Limit",
+      "ru": "The Hongkong and Shanghai Banking Corporation Limit",
+      "uk": "The Hongkong and Shanghai Banking Corporation Limit"
+    }
+  },
+  {
+    "status": "active",
+    "code": "sbj_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "SBJ Bank",
+      "ru": "SBJ Bank",
+      "uk": "SBJ Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "japan_post_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Japan Post Bank",
+      "ru": "Japan Post Bank",
+      "uk": "Japan Post Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "nagano_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Nagano Bank",
+      "ru": "Nagano Bank",
+      "uk": "Nagano Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "juroku_banks",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Juroku Banks",
+      "ru": "Juroku Banks",
+      "uk": "Juroku Banks"
+    }
+  },
+  {
+    "status": "active",
+    "code": "ogaki_kyoritsu_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Oogaki Kyoritsu Bank",
+      "ru": "Oogaki Kyoritsu Bank",
+      "uk": "Oogaki Kyoritsu Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "sumitomo_mitsui_banking_corporation",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Sumitomo Mitsui Banking Corporation",
+      "ru": "Sumitomo Mitsui Banking Corporation",
+      "uk": "Sumitomo Mitsui Banking Corporation"
+    }
+  },
+  {
+    "status": "active",
+    "code": "toyama_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Toyama Bank",
+      "ru": "Toyama Bank",
+      "uk": "Toyama Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "suruga_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Suruga Bank",
+      "ru": "Suruga Bank",
+      "uk": "Suruga Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "awa_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Awa Bank",
+      "ru": "Awa Bank",
+      "uk": "Awa Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "saitama_resona_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Saitama Resona Bank",
+      "ru": "Saitama Resona Bank",
+      "uk": "Saitama Resona Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "ryukyu_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Ryukyu Bank",
+      "ru": "Ryukyu Bank",
+      "uk": "Ryukyu Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "hyakugo_banks",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Hyakugo Banks",
+      "ru": "Hyakugo Banks",
+      "uk": "Hyakugo Banks"
+    }
+  },
+  {
+    "status": "active",
+    "code": "shonai_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Shonai Bank",
+      "ru": "Shonai Bank",
+      "uk": "Shonai Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "seven_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Seven Bank",
+      "ru": "Seven Bank",
+      "uk": "Seven Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "tomato_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Tomato Bank",
+      "ru": "Tomato Bank",
+      "uk": "Tomato Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "nishi_nihon_city_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Nishi Nihon City Bank",
+      "ru": "Nishi Nihon City Bank",
+      "uk": "Nishi Nihon City Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "yamagata_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Yamagata Bank",
+      "ru": "Yamagata Bank",
+      "uk": "Yamagata Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "chikubo_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Chikubo Bank",
+      "ru": "Chikubo Bank",
+      "uk": "Chikubo Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "shikoku_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Shikoku Bank",
+      "ru": "Shikoku Bank",
+      "uk": "Shikoku Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "fukushima_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Fukushima Bank",
+      "ru": "Fukushima Bank",
+      "uk": "Fukushima Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "sendai_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Sendai Bank",
+      "ru": "Sendai Bank",
+      "uk": "Sendai Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "higo_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Higo Bank",
+      "ru": "Higo Bank",
+      "uk": "Higo Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "musashino_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Musashino Bank",
+      "ru": "Musashino Bank",
+      "uk": "Musashino Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "akita_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Akita Bank",
+      "ru": "Akita Bank",
+      "uk": "Akita Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "saikyo_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Saikyo Bank",
+      "ru": "Saikyo Bank",
+      "uk": "Saikyo Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "hokkaido_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Hokkaido Bank",
+      "ru": "Hokkaido Bank",
+      "uk": "Hokkaido Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "citibank_n_a",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Citibank",
+      "ru": "Citibank",
+      "uk": "Citibank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "oita_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Oita Bank",
+      "ru": "Oita Bank",
+      "uk": "Oita Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "yokohama_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Yokohama Bank",
+      "ru": "Yokohama Bank",
+      "uk": "Yokohama Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "rakuten_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Rakuten Bank",
+      "ru": "Rakuten Bank",
+      "uk": "Rakuten Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "aichi_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Aichi Bank",
+      "ru": "Aichi Bank",
+      "uk": "Aichi Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "daishi_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Daishi Bank",
+      "ru": "Daishi Bank",
+      "uk": "Daishi Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "san_in_godo_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Sanin Goudou Bank",
+      "ru": "Sanin Goudou Bank",
+      "uk": "Sanin Goudou Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "okinawa_kaiho_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Okinawa Kaiho Bank",
+      "ru": "Okinawa Kaiho Bank",
+      "uk": "Okinawa Kaiho Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "kumamoto_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Kumamoto Bank",
+      "ru": "Kumamoto Bank",
+      "uk": "Kumamoto Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "tottori_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Tottori Bank",
+      "ru": "Tottori Bank",
+      "uk": "Tottori Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "hiroshima_shinkin_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "The Hiroshima Shinkin Bank",
+      "ru": "The Hiroshima Shinkin Bank",
+      "uk": "The Hiroshima Shinkin Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "saga_kyoei_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Saga Kyoei Bank",
+      "ru": "Saga Kyoei Bank",
+      "uk": "Saga Kyoei Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "yamanashi_chuo_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Yamanashi Chuo Bank",
+      "ru": "Yamanashi Chuo Bank",
+      "uk": "Yamanashi Chuo Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "mie_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Mie Bank",
+      "ru": "Mie Bank",
+      "uk": "Mie Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "aozora_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Aozora Bank",
+      "ru": "Aozora Bank",
+      "uk": "Aozora Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "tsukuba_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Tsukuba Bank",
+      "ru": "Tsukuba Bank",
+      "uk": "Tsukuba Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "howa_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Howa Bank",
+      "ru": "Howa Bank",
+      "uk": "Howa Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "oita_mirai_shinkin_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "The Oita Mirai Shinkin Bank",
+      "ru": "The Oita Mirai Shinkin Bank",
+      "uk": "The Oita Mirai Shinkin Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "okinawa_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Okinawa Bank",
+      "ru": "Okinawa Bank",
+      "uk": "Okinawa Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "nagoya_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Nagoya Bank",
+      "ru": "Nagoya Bank",
+      "uk": "Nagoya Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "lawson_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Lawson Bank",
+      "ru": "Lawson Bank",
+      "uk": "Lawson Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "mtb",
+    "category": "online_banking",
+    "name": {
+      "en": "MTB",
+      "ru": "МТБ",
+      "uk": "МТБ"
+    }
+  },
+  {
+    "status": "active",
+    "code": "sony_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Sony Bank",
+      "ru": "Sony Bank",
+      "uk": "Sony Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "aichi_shogin",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Aichi Shogin",
+      "ru": "Aichi Shogin",
+      "uk": "Aichi Shogin"
+    }
+  },
+  {
+    "status": "active",
+    "code": "shinwa_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Shinwa Bank",
+      "ru": "Shinwa Bank",
+      "uk": "Shinwa Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "minato_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Minato Bank",
+      "ru": "Minato Bank",
+      "uk": "Minato Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "fukuoka_chuo_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Fukuoka Chuo Bank",
+      "ru": "Fukuoka Chuo Bank",
+      "uk": "Fukuoka Chuo Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "shizuoka_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Shizuoka Bank",
+      "ru": "Shizuoka Bank",
+      "uk": "Shizuoka Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "resona_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Resona Bank",
+      "ru": "Resona Bank",
+      "uk": "Resona Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "tokyo_star_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Tokyo Star Bank",
+      "ru": "Tokyo Star Bank",
+      "uk": "Tokyo Star Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "paypay",
+    "category": "bank_transfer",
+    "name": {
+      "en": "PayPay Ban",
+      "ru": "PayPay Ban",
+      "uk": "PayPay Ban"
+    }
+  },
+  {
+    "status": "active",
+    "code": "hokuto_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Hokuto Bank",
+      "ru": "Hokuto Bank",
+      "uk": "Hokuto Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "tokushima_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Tokushima Bank",
+      "ru": "Tokushima Bank",
+      "uk": "Tokushima Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "yamaguchi_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Yamaguchi Bank",
+      "ru": "Yamaguchi Bank",
+      "uk": "Yamaguchi Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "kagawa_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Kagawa Bank",
+      "ru": "Kagawa Bank",
+      "uk": "Kagawa Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "towa_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Towa Bank",
+      "ru": "Towa Bank",
+      "uk": "Towa Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "fukui_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Fukui Bank",
+      "ru": "Fukui Bank",
+      "uk": "Fukui Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "abukuma_shinkin_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Abukuma Shinkin Bank",
+      "ru": "Abukuma Shinkin Bank",
+      "uk": "Abukuma Shinkin Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "minami_nippon_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Minami Nippon Bank",
+      "ru": "Minami Nippon Bank",
+      "uk": "Minami Nippon Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "touhou_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Touhou Bank",
+      "ru": "Touhou Bank",
+      "uk": "Touhou Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "miyazaki_taiyo_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Miyazaki Taiyo Bank",
+      "ru": "Miyazaki Taiyo Bank",
+      "uk": "Miyazaki Taiyo Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "sumishin_sbi_net_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Sumishin SBI Net Bank",
+      "ru": "Sumishin SBI Net Bank",
+      "uk": "Sumishin SBI Net Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "mitsubishi_ufj_trust_and_banking",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Mitsubishi UFJ Trust and Banking Corporation",
+      "ru": "Mitsubishi UFJ Trust and Banking Corporation",
+      "uk": "Mitsubishi UFJ Trust and Banking Corporation"
+    }
+  },
+  {
+    "status": "active",
+    "code": "shizuoka_chuo_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Shizuoka Chuo Bank",
+      "ru": "Shizuoka Chuo Bank",
+      "uk": "Shizuoka Chuo Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "deutsche_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Deutsche Bank",
+      "ru": "Deutsche Bank",
+      "uk": "Deutsche Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "kyoto_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Kyoto Bank",
+      "ru": "Kyoto Bank",
+      "uk": "Kyoto Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "hachijuni_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Hachijuni Banks",
+      "ru": "Hachijuni Banks",
+      "uk": "Hachijuni Banks"
+    }
+  },
+  {
+    "status": "active",
+    "code": "keiyo_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Keiyo Bank",
+      "ru": "Keiyo Bank",
+      "uk": "Keiyo Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "north_pacific_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "North Pacific Bank",
+      "ru": "North Pacific Bank",
+      "uk": "North Pacific Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "first_bank_of_toyama",
+    "category": "bank_transfer",
+    "name": {
+      "en": "First Bank of Toyama",
+      "ru": "First Bank of Toyama",
+      "uk": "First Bank of Toyama"
+    }
+  },
+  {
+    "status": "active",
+    "code": "kansai_mirai_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Kansai Mirai Bank",
+      "ru": "Kansai Mirai Bank",
+      "uk": "Kansai Mirai Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "mitsubishi_ufj_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Mitsubishi UFJ Bank",
+      "ru": "Mitsubishi UFJ Bank",
+      "uk": "Mitsubishi UFJ Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "ehime_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Ehime Bank",
+      "ru": "Ehime Bank",
+      "uk": "Ehime Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "aichi_shinkin_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Aichi Shinkin Bank",
+      "ru": "Aichi Shinkin Bank",
+      "uk": "Aichi Shinkin Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "kochi_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Kochi Bank",
+      "ru": "Kochi Bank",
+      "uk": "Kochi Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "fukuoka_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Fukuoka Bank",
+      "ru": "Fukuoka Bank",
+      "uk": "Fukuoka Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "iwate_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Iwate Bank",
+      "ru": "Iwate Bank",
+      "uk": "Iwate Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "shimane_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Shimane Bank",
+      "ru": "Shimane Bank",
+      "uk": "Shimane Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "daiwa_next_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Daiwa Next Bank",
+      "ru": "Daiwa Next Bank",
+      "uk": "Daiwa Next Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "jibun_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Jibun Bank",
+      "ru": "Jibun Bank",
+      "uk": "Jibun Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "jyuhachi_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Jyuhachi Bank",
+      "ru": "Jyuhachi Bank",
+      "uk": "Jyuhachi Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "hokuetsu_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Hokuetsu Bank",
+      "ru": "Hokuetsu Bank",
+      "uk": "Hokuetsu Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "kagoshima_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Kagoshima Bank",
+      "ru": "Kagoshima Bank",
+      "uk": "Kagoshima Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "kiraboshi_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Kiraboshi Bank",
+      "ru": "Kiraboshi Bank",
+      "uk": "Kiraboshi Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "nanto_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Nanto Bank",
+      "ru": "Nanto Bank",
+      "uk": "Nanto Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "kita_nippon_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Kita-Nippon Bank",
+      "ru": "Kita-Nippon Bank",
+      "uk": "Kita-Nippon Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "hokkoku_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Hokkoku Bank",
+      "ru": "Hokkoku Bank",
+      "uk": "Hokkoku Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "fukuho_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Fukuho Bank",
+      "ru": "Fukuho Bank",
+      "uk": "Fukuho Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "taiko_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Taiko Bank",
+      "ru": "Taiko Bank",
+      "uk": "Taiko Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "kyoto_chuo_shinkin_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Kyoto Chuo Shinkin Bank",
+      "ru": "Kyoto Chuo Shinkin Bank",
+      "uk": "Kyoto Chuo Shinkin Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "kyoto_shinkin_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "The Kyoto Shinkin Bank",
+      "ru": "The Kyoto Shinkin Bank",
+      "uk": "The Kyoto Shinkin Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "hokuriku_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Hokuriku Bank",
+      "ru": "Hokuriku Bank",
+      "uk": "Hokuriku Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "higashi_nippon_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Higashi-Nippon Bank",
+      "ru": "Higashi-Nippon Bank",
+      "uk": "Higashi-Nippon Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "taisho_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Taisho Bank",
+      "ru": "Taisho Bank",
+      "uk": "Taisho Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "tajima_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Tajima Bank",
+      "ru": "Tajima Bank",
+      "uk": "Tajima Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "gunma_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Gunma Bank",
+      "ru": "Gunma Bank",
+      "uk": "Gunma Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "saga_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Saga Bank",
+      "ru": "Saga Bank",
+      "uk": "Saga Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "industrial_bank_of_korea",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Industrial Bank of Korea",
+      "ru": "Industrial Bank of Korea",
+      "uk": "Industrial Bank of Korea"
+    }
+  },
+  {
+    "status": "active",
+    "code": "standard_chartered_bank_korea",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Standard Chartered Bank Korea",
+      "ru": "Standard Chartered Bank Korea",
+      "uk": "Standard Chartered Bank Korea"
+    }
+  },
+  {
+    "status": "active",
+    "code": "citibank_korea",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Citibank Korea",
+      "ru": "Citibank Korea",
+      "uk": "Citibank Korea"
+    }
+  },
+  {
+    "status": "active",
+    "code": "k_bank_south_korea",
+    "category": "bank_transfer",
+    "name": {
+      "en": "K-Bank",
+      "ru": "K-Bank",
+      "uk": "K-Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "kf_of_ccc_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Korea Fedration of Community Credi Cooperative",
+      "ru": "Korea Fedration of Community Credi Cooperative",
+      "uk": "Korea Fedration of Community Credi Cooperative"
+    }
+  },
+  {
+    "status": "active",
+    "code": "local_cooperative_federation_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Local Cooperative Federation",
+      "ru": "Local Cooperative Federation",
+      "uk": "Local Cooperative Federation"
+    }
+  },
+  {
+    "status": "active",
+    "code": "aba_bank_cambodia",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Advanced Bank of Asia",
+      "ru": "Advanced Bank of Asia",
+      "uk": "Advanced Bank of Asia"
+    }
+  },
+  {
+    "status": "active",
+    "code": "wing_bank_cambodia",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Wing Bank",
+      "ru": "Wing Bank",
+      "uk": "Wing Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "acleda_bank_cambodia",
+    "category": "bank_transfer",
+    "name": {
+      "en": "ACLEDA Bank",
+      "ru": "ACLEDA Bank",
+      "uk": "ACLEDA Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "va_may_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Maybank VA"
+    }
+  },
+  {
+    "status": "active",
+    "code": "vodafone_mpesa",
+    "category": "digital_wallet",
+    "name": {
+      "en": "Vodafone-Mpesa"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bkash_limited",
+    "category": "digital_wallet",
+    "name": {
+      "en": "Bkash Limited",
+      "ru": "Bkash Limited",
+      "uk": "Bkash Limited"
+    }
+  },
+  {
+    "status": "active",
+    "code": "virtual_bank_aggregated",
+    "category": "online_banking",
+    "name": {
+      "en": "Virtual Banking",
+      "ru": "Virtual Banking",
+      "uk": "Virtual Banking"
+    }
+  },
+  {
+    "status": "active",
+    "code": "zen_wallet",
+    "vendor": "zenwallet",
+    "category": "digital_wallet",
+    "name": {
+      "en": "Zen wallet",
+      "ru": "Zen кошелек",
+      "uk": "Zen гаманець"
+    }
+  },
+  {
+    "status": "active",
+    "code": "dutch_bangla_bank_limited_rocket",
+    "category": "digital_wallet",
+    "name": {
+      "en": "Dutch-Bangla Bank Rocket",
+      "ru": "Dutch-Bangla Bank Rocket",
+      "uk": "Dutch-Bangla Bank Rocket"
+    }
+  },
+  {
+    "status": "active",
+    "code": "united_commercial_bank_upay",
+    "category": "digital_wallet",
+    "name": {
+      "en": "United Commercial Bank Upay",
+      "ru": "United Commercial Bank Upay",
+      "uk": "United Commercial Bank Upay"
+    }
+  },
+  {
+    "status": "active",
+    "code": "nagad_wallet",
+    "category": "digital_wallet",
+    "name": {
+      "en": "Nagad Digital Financial Service",
+      "ru": "Nagad Digital Financial Service",
+      "uk": "Nagad Digital Financial Service"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bkash_p2c",
+    "category": "digital_wallet",
+    "name": {
+      "en": "Bkash p2c",
+      "ru": "Bkash p2c",
+      "uk": "Bkash p2c"
+    }
+  },
+  {
+    "status": "active",
+    "code": "nagad_p2c",
+    "category": "digital_wallet",
+    "name": {
+      "en": "Nagad p2c",
+      "ru": "Nagad p2c",
+      "uk": "Nagad p2c"
+    }
+  },
+  {
+    "status": "active",
+    "code": "anz_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Australia and New Zealand Banking (ANZ Bank)",
+      "ru": "Australia and New Zealand Banking (ANZ Bank)",
+      "uk": "Australia and New Zealand Banking (ANZ Bank)"
+    }
+  },
+  {
+    "status": "active",
+    "code": "mhb_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Mekong Housing Bank (MHB Bank)",
+      "ru": "Mekong Housing Bank (MHB Bank)",
+      "uk": "Mekong Housing Bank (MHB Bank)"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_for_agriculture",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank for Agriculture",
+      "ru": "Bank for Agriculture",
+      "uk": "Bank for Agriculture"
+    }
+  },
+  {
+    "status": "active",
+    "code": "islamic_bank_of_thailand",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Islamic Bank of Thailand",
+      "ru": "Islamic Bank of Thailand",
+      "uk": "Islamic Bank of Thailand"
+    }
+  },
+  {
+    "status": "active",
+    "code": "thai_credit_retail_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Thai Credit Retail Bank",
+      "ru": "Thai Credit Retail Bank",
+      "uk": "Thai Credit Retail Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "tisco_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Tisco Bank",
+      "ru": "Tisco Bank",
+      "uk": "Tisco Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "asia_united_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Asia United Bank",
+      "ru": "Asia United Bank",
+      "uk": "Asia United Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bdo_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Banco de Oro",
+      "ru": "Banco de Oro",
+      "uk": "Banco de Oro"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bdo_network_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "BDO Network Bank",
+      "ru": "BDO Network Bank",
+      "uk": "BDO Network Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "philippine_islands_family_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "BPI Family Bank",
+      "ru": "BPI Family Bank",
+      "uk": "BPI Family Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "coins_ph",
+    "category": "digital_wallet",
+    "name": {
+      "en": "COINS.PH",
+      "ru": "COINS.PH",
+      "uk": "COINS.PH"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_of_commerce",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank of Commerce",
+      "ru": "Bank of Commerce",
+      "uk": "Bank of Commerce"
+    }
+  },
+  {
+    "status": "active",
+    "code": "china_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Chinabank CA/SA",
+      "ru": "Chinabank CA/SA",
+      "uk": "Chinabank CA/SA"
+    }
+  },
+  {
+    "status": "active",
+    "code": "china_bank_savings",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Chinabank Savings",
+      "ru": "Chinabank Savings",
+      "uk": "Chinabank Savings"
+    }
+  },
+  {
+    "status": "active",
+    "code": "cebuana_lhuillier",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Cebuana Lhuillier",
+      "ru": "Cebuana Lhuillier",
+      "uk": "Cebuana Lhuillier"
+    }
+  },
+  {
+    "status": "active",
+    "code": "ctbc_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Chinatrust",
+      "ru": "Chinatrust",
+      "uk": "Chinatrust"
+    }
+  },
+  {
+    "status": "active",
+    "code": "grabpay_wallet",
+    "category": "digital_wallet",
+    "name": {
+      "en": "GrabPay Wallet",
+      "ru": "GrabPay Wallet",
+      "uk": "GrabPay Wallet"
+    }
+  },
+  {
+    "status": "active",
+    "code": "lbc",
+    "category": "bank_transfer",
+    "name": {
+      "en": "LBC",
+      "ru": "LBC",
+      "uk": "LBC"
+    }
+  },
+  {
+    "status": "active",
+    "code": "pera_hub_bank",
+    "category": "online_banking",
+    "name": {
+      "en": "PeraHub",
+      "ru": "PeraHub",
+      "uk": "PeraHub"
+    }
+  },
+  {
+    "status": "active",
+    "code": "ps_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "PSBank (Philippine Savings Bank)",
+      "ru": "PSBank (Philippine Savings Bank)",
+      "uk": "PSBank (Philippine Savings Bank)"
+    }
+  },
+  {
+    "status": "active",
+    "code": "veterans_bank",
+    "category": "online_banking",
+    "name": {
+      "en": "Veterans Bank (Philippine Veterans Bank)",
+      "ru": "Veterans Bank (Philippine Veterans Bank)",
+      "uk": "Veterans Bank (Philippine Veterans Bank)"
+    }
+  },
+  {
+    "status": "active",
+    "code": "rd_pawnshop",
+    "category": "bank_transfer",
+    "name": {
+      "en": "RD Pawnshop Cash Pickup",
+      "ru": "RD Pawnshop Cash Pickup",
+      "uk": "RD Pawnshop Cash Pickup"
+    }
+  },
+  {
+    "status": "active",
+    "code": "robinsons_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Robinsons Bank CA/SA",
+      "ru": "Robinsons Bank CA/SA",
+      "uk": "Robinsons Bank CA/SA"
+    }
+  },
+  {
+    "status": "active",
+    "code": "ucpb",
+    "category": "bank_transfer",
+    "name": {
+      "en": "UCPB CA/SA (United Coconut Planters Bank)",
+      "ru": "UCPB CA/SA (United Coconut Planters Bank)",
+      "uk": "UCPB CA/SA (United Coconut Planters Bank)"
+    }
+  },
+  {
+    "status": "active",
+    "code": "villarica_pawnshop",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Villarica Pawnshop",
+      "ru": "Villarica Pawnshop",
+      "uk": "Villarica Pawnshop"
+    }
+  },
+  {
+    "status": "active",
+    "code": "philippine_bank_of_communications",
+    "category": "bank_transfer",
+    "name": {
+      "en": "PBCom (Philippine Bank of Communications)",
+      "ru": "PBCom (Philippine Bank of Communications)",
+      "uk": "PBCom (Philippine Bank of Communications)"
+    }
+  },
+  {
+    "status": "active",
+    "code": "hsbc_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "HSBC Bank (Vietnam) Ltd",
+      "ru": "HSBC Bank (Vietnam) Ltd",
+      "uk": "HSBC Bank (Vietnam) Ltd"
+    }
+  },
+  {
+    "status": "active",
+    "code": "m_lhuillier",
+    "category": "bank_transfer",
+    "name": {
+      "en": "M. Lhuillier",
+      "ru": "M. Lhuillier",
+      "uk": "M. Lhuillier"
+    }
+  },
+  {
+    "status": "active",
+    "code": "bank_transfer_token",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bank Transfer by Token",
+      "ru": "Банковский перевод по токену",
+      "uk": "Банківський переказ по токену"
+    }
+  },
+  {
+    "status": "active",
+    "code": "deniz_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "DenizBank",
+      "ru": "DenizBank",
+      "uk": "DenizBank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "garanti_bbva",
+    "category": "bank_transfer",
+    "name": {
+      "en": "T. Garanti Bankası A.Ş.",
+      "ru": "T. Garanti Bankası A.Ş.",
+      "uk": "T. Garanti Bankası A.Ş."
+    }
+  },
+  {
+    "status": "active",
+    "code": "halk_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Türkiye Halk Bankası A.Ş.",
+      "ru": "Türkiye Halk Bankası A.Ş.",
+      "uk": "Türkiye Halk Bankası A.Ş."
+    }
+  },
+  {
+    "status": "active",
+    "code": "vakif_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "VakıfBank",
+      "ru": "VakıfBank",
+      "uk": "VakıfBank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "yapi_kredi_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Yapı ve Kredi Bankası A.Ş.",
+      "ru": "Yapı ve Kredi Bankası A.Ş.",
+      "uk": "Yapı ve Kredi Bankası A.Ş."
+    }
+  },
+  {
+    "status": "active",
+    "code": "kuveyt_turk_katilim_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Kuveyt Türk Participation Bank",
+      "ru": "Kuveyt Türk Participation Bank",
+      "uk": "Kuveyt Türk Participation Bank"
+    }
+  },
+  {
+    "code": "kunapay_crypto",
+    "vendor": "kunapay",
+    "category": "alternative",
+    "status": "active",
+    "name": {
+      "en": "KunaPay Crypto",
+      "ru": "KunaPay Crypto",
+      "uk": "KunaPay Crypto"
+    }
+  },
+  {
+    "code": "diamond_bank_nigeria",
+    "vendor": "diamond_bank_nigeria",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "Access Bank Plc (Diamond), Nigeria",
+      "ru": "Access Bank Plc (Diamond), Nigeria",
+      "uk": "Access Bank Plc (Diamond), Nigeria"
+    }
+  },
+  {
+    "code": "citi_bank_nigeria",
+    "vendor": "citi_bank_nigeria",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "Citi Bank, Nigeria",
+      "ru": "Citi Bank, Nigeria",
+      "uk": "Citi Bank, Nigeria"
+    }
+  },
+  {
+    "code": "ecobank_nigeria",
+    "vendor": "ecobank_nigeria",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "Ecobank, Nigeria",
+      "ru": "Ecobank, Nigeria",
+      "uk": "Ecobank, Nigeria"
+    }
+  },
+  {
+    "code": "fsmb_nigeria",
+    "vendor": "fsmb_nigeria",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "FCMB Plc, Nigeria",
+      "ru": "FCMB Plc, Nigeria",
+      "uk": "FCMB Plc, Nigeria"
+    }
+  },
+  {
+    "code": "fidelity_bank_nigeria",
+    "vendor": "fidelity_bank_nigeria",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "Fidelity Bank, Nigeria",
+      "ru": "Fidelity Bank, Nigeria",
+      "uk": "Fidelity Bank, Nigeria"
+    }
+  },
+  {
+    "code": "first_bank_of_nigeria",
+    "vendor": "first_bank_of_nigeria",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "First Bank of Nigeria",
+      "ru": "First Bank of Nigeria",
+      "uk": "First Bank of Nigeria"
+    }
+  },
+  {
+    "code": "moniepoint_mfb_nigeria",
+    "vendor": "moniepoint_mfb_nigeria",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "Moniepoint MFB",
+      "ru": "Moniepoint MFB",
+      "uk": "Moniepoint MFB"
+    }
+  },
+  {
+    "code": "kuda_bank_nigeria",
+    "vendor": "kuda_bank_nigeria",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "Kuda Bank",
+      "ru": "Kuda Bank",
+      "uk": "Kuda Bank"
+    }
+  },
+  {
+    "code": "opay_digital_services_nigeria",
+    "vendor": "opay_digital_services_nigeria",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "OPay Digital Services",
+      "ru": "OPay Digital Services",
+      "uk": "OPay Digital Services"
+    }
+  },
+  {
+    "code": "absa_bank_ghana_ltd",
+    "vendor": "absa_bank_ghana_ltd",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "Absa Bank Ghana Ltd",
+      "ru": "Absa Bank Ghana Ltd",
+      "uk": "Absa Bank Ghana Ltd"
+    }
+  },
+  {
+    "code": "ecobank_ghana_limited",
+    "vendor": "ecobank_ghana_limited",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "Ecobank Ghana Limited",
+      "ru": "Ecobank Ghana Limited",
+      "uk": "Ecobank Ghana Limited"
+    }
+  },
+  {
+    "code": "fidelity_bank_ghana_limited",
+    "vendor": "fidelity_bank_ghana_limited",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "Fidelity Bank Ghana Limited",
+      "ru": "Fidelity Bank Ghana Limited",
+      "uk": "Fidelity Bank Ghana Limited"
+    }
+  },
+  {
+    "code": "gcb_bank_limited_ghana",
+    "vendor": "gcb_bank_limited_ghana",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "GCB Bank Limited",
+      "ru": "GCB Bank Limited",
+      "uk": "GCB Bank Limited"
+    }
+  },
+  {
+    "code": "standard_chartered_bank_ghana_limited",
+    "vendor": "standard_chartered_bank_ghana_limited",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "Standard Chartered Bank Ghana Limited",
+      "ru": "Standard Chartered Bank Ghana Limited",
+      "uk": "Standard Chartered Bank Ghana Limited"
+    }
+  },
+  {
+    "code": "stanbic_bank_ghana_limited",
+    "vendor": "stanbic_bank_ghana_limited",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "Stanbic Bank Ghana Limited",
+      "ru": "Stanbic Bank Ghana Limited",
+      "uk": "Stanbic Bank Ghana Limited"
+    }
+  },
+  {
+    "code": "united_bank_for_africa_ghana_limited",
+    "vendor": "united_bank_for_africa_ghana_limited",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "United Bank for Africa Ghana Limited",
+      "ru": "United Bank for Africa Ghana Limited",
+      "uk": "United Bank for Africa Ghana Limited"
+    }
+  },
+  {
+    "code": "zenith_bank_ghana",
+    "vendor": "zenith_bank_ghana",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "Zenith Bank Ghana",
+      "ru": "Zenith Bank Ghana",
+      "uk": "Zenith Bank Ghana"
+    }
+  },
+  {
+    "code": "absa_bank_kenya_plc",
+    "vendor": "absa_bank_kenya_plc",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "Absa Bank Kenya Plc",
+      "ru": "Absa Bank Kenya Plc",
+      "uk": "Absa Bank Kenya Plc"
+    }
+  },
+  {
+    "code": "cooperative_bank_of_kenya_ltd",
+    "vendor": "cooperative_bank_of_kenya_ltd",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "Co-operative Bank of Kenya Ltd",
+      "ru": "Co-operative Bank of Kenya Ltd",
+      "uk": "Co-operative Bank of Kenya Ltd"
+    }
+  },
+  {
+    "code": "equity_bank_kenya_ltd",
+    "vendor": "equity_bank_kenya_ltd",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "Equity Bank Kenya Ltd",
+      "ru": "Equity Bank Kenya Ltd",
+      "uk": "Equity Bank Kenya Ltd"
+    }
+  },
+  {
+    "code": "kenya_commercial_bank",
+    "vendor": "kenya_commercial_bank",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "Kenya Commercial Bank (KCB Bank)",
+      "ru": "Kenya Commercial Bank (KCB Bank)",
+      "uk": "Kenya Commercial Bank (KCB Bank)"
+    }
+  },
+  {
+    "code": "ncba_bank_kenya",
+    "vendor": "ncba_bank_kenya",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "NCBA Bank Kenya",
+      "ru": "NCBA Bank Kenya",
+      "uk": "NCBA Bank Kenya"
+    }
+  },
+  {
+    "code": "standard_chartered_bank_kenya",
+    "vendor": "standard_chartered_bank_kenya",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "Standard Chartered Bank Kenya",
+      "ru": "Standard Chartered Bank Kenya",
+      "uk": "Standard Chartered Bank Kenya"
+    }
+  },
+  {
+    "code": "stanbic_bank_kenya_limited",
+    "vendor": "stanbic_bank_kenya_limited",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "Stanbic Bank Kenya Limited",
+      "ru": "Stanbic Bank Kenya Limited",
+      "uk": "Stanbic Bank Kenya Limited"
+    }
+  },
+  {
+    "code": "united_bank_for_africa_kenya_ltd",
+    "vendor": "united_bank_for_africa_kenya_ltd",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "United Bank for Africa Kenya Ltd",
+      "ru": "United Bank for Africa Kenya Ltd",
+      "uk": "United Bank for Africa Kenya Ltd"
+    }
+  },
+  {
+    "code": "polaris_bank_nigeria",
+    "vendor": "polaris_bank_nigeria",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "Polaris Bank, Nigeria",
+      "ru": "Polaris Bank, Nigeria",
+      "uk": "Polaris Bank, Nigeria"
+    }
+  },
+  {
+    "code": "stanbic_bank_nigeria",
+    "vendor": "stanbic_bank_nigeria",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "Stanbic IBTC Bank, Nigeria",
+      "ru": "Stanbic IBTC Bank, Nigeria",
+      "uk": "Stanbic IBTC Bank, Nigeria"
+    }
+  },
+  {
+    "code": "tyme_bank",
+    "vendor": "tyme_bank",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "Tyme Bank, South Africa",
+      "ru": "Tyme Bank, South Africa",
+      "uk": "Tyme Bank, South Africa"
+    }
+  },
+  {
+    "code": "african_bank",
+    "vendor": "african_bank",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "African Bank, South Africa",
+      "ru": "African Bank, South Africa",
+      "uk": "African Bank, South Africa"
+    }
+  },
+  {
+    "code": "bidvest_bank",
+    "vendor": "bidvest_bank",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "Bidvest Bank, South Africa",
+      "ru": "Bidvest Bank, South Africa",
+      "uk": "Bidvest Bank, South Africa"
+    }
+  },
+  {
+    "code": "t_kash",
+    "category": "mobile_payment",
+    "status": "active",
+    "name": {
+      "en": "T-Kash",
+      "ru": "T-Kash",
+      "uk": "T-Kash"
+    }
+  },
+  {
+    "code": "telkom_kenya",
+    "category": "mobile_payment",
+    "status": "active",
+    "name": {
+      "en": "Telkom",
+      "ru": "Telkom",
+      "uk": "Telkom"
+    }
+  },
+  {
+    "status": "active",
+    "code": "oriental_wallet",
+    "category": "digital_wallet",
+    "name": {
+      "en": "Oriental Wallet",
+      "ru": "Oriental Wallet",
+      "uk": "Oriental Wallet"
+    }
+  },
+  {
+    "status": "active",
+    "code": "instapay",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Instapay",
+      "ru": "Instapay",
+      "uk": "Instapay"
+    }
+  },
+  {
+    "status": "active",
+    "code": "pesonet",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Pesonet",
+      "ru": "Pesonet",
+      "uk": "Pesonet"
+    }
+  },
+  {
+    "code": "bank_transfer_aggregated",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "Bank Transfer Aggregated",
+      "ru": "Bank Transfer Aggregated",
+      "uk": "Bank Transfer Aggregated"
+    }
+  },
+  {
+    "status": "active",
+    "code": "m10",
+    "category": "digital_wallet",
+    "name": {
+      "en": "M10",
+      "ru": "M10",
+      "uk": "M10"
+    }
+  },
+  {
+    "status": "active",
+    "code": "emanat",
+    "category": "invoice_payment",
+    "name": {
+      "en": "eManat",
+      "ru": "eManat",
+      "uk": "eManat"
+    }
+  },
+  {
+    "code": "cardano",
+    "vendor": "cardano",
+    "category": "alternative",
+    "status": "active",
+    "name": {
+      "en": "Cardano",
+      "ru": "Cardano",
+      "uk": "Cardano"
+    }
+  },
+  {
+    "code": "astropay_wallet",
+    "category": "digital_wallet",
+    "status": "active",
+    "name": {
+      "en": "Astropay Wallet",
+      "ru": "Astropay Wallet",
+      "uk": "Astropay Wallet"
+    }
+  },
+  {
+    "status": "active",
+    "code": "otp_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "OTP Bank",
+      "ru": "OTP Bank",
+      "uk": "OTP Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "creditagricole_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Credit Agricole",
+      "ru": "Credit Agricole",
+      "uk": "Credit Agricole"
+    }
+  },
+  {
+    "status": "active",
+    "code": "creditdnipro_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Credit Dnipro",
+      "ru": "Credit Dnipro",
+      "uk": "Credit Dnipro"
+    }
+  },
+  {
+    "status": "active",
+    "code": "vlasnyirakhunok_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Vlasnyi Rakhunok",
+      "ru": "Vlasnyi Rakhunok",
+      "uk": "Vlasnyi Rakhunok"
+    }
+  },
+  {
+    "status": "active",
+    "code": "izi_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "IZI",
+      "ru": "IZI",
+      "uk": "IZI"
+    }
+  },
+  {
+    "status": "active",
+    "code": "pumb_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "PUMB",
+      "ru": "PUMB",
+      "uk": "PUMB"
+    }
+  },
+  {
+    "status": "active",
+    "code": "abank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "A Bank",
+      "ru": "A Bank",
+      "uk": "A Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "mono_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Mono Bank",
+      "ru": "Mono Bank",
+      "uk": "Mono Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "centercredit_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Center Credit",
+      "ru": "Center Credit",
+      "uk": "Center Credit"
+    }
+  },
+  {
+    "status": "active",
+    "code": "forte_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Forte Bank",
+      "ru": "Forte Bank",
+      "uk": "Forte Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "altyn_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Altyn Bank",
+      "ru": "Altyn Bank",
+      "uk": "Altyn Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "halyk_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Halyk Bank",
+      "ru": "Halyk Bank",
+      "uk": "Halyk Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "jusan_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Jusan Bank",
+      "ru": "Jusan Bank",
+      "uk": "Jusan Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "kaspi_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Kaspi Bank",
+      "ru": "Kaspi Bank",
+      "uk": "Kaspi Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"albaraka_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en": "Albaraka Bank, South Africa",
+      "ru": "Albaraka Bank, South Africa",
+      "uk": "Albaraka Bank, South Africa"
+    }
+  },
+  {
+    "status":"active",
+    "code":"bank_zero",
+    "category":"bank_transfer",
+    "name":{
+      "en": "Bank Zero, South Africa",
+      "ru": "Bank Zero, South Africa",
+      "uk": "Bank Zero, South Africa"
+    }
+  },
+  {
+    "status":"active",
+    "code":"discovery_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en": "Discovery Bank Limited, South Africa",
+      "ru": "Discovery Bank Limited, South Africa",
+      "uk": "Discovery Bank Limited, South Africa"
+    }
+  },
+  {
+    "status":"active",
+    "code":"finbond_mutual_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en": "Finbond Mutual Bank, South Africa",
+      "ru": "Finbond Mutual Bank, South Africa",
+      "uk": "Finbond Mutual Bank, South Africa"
+    }
+  },
+  {
+    "status":"active",
+    "code":"first_rand_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en": "FirstRand Bank, South Africa",
+      "ru": "FirstRand Bank, South Africa",
+      "uk": "FirstRand Bank, South Africa"
+    }
+  },
+  {
+    "status":"active",
+    "code":"grindrod_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en": "Grindrod Bank, South Africa",
+      "ru": "Grindrod Bank, South Africa",
+      "uk": "Grindrod Bank, South Africa"
+    }
+  },
+  {
+    "status":"active",
+    "code":"hsbc_south_africa",
+    "category":"bank_transfer",
+    "name":{
+      "en": "HSBC Bank, South Africa",
+      "ru": "HSBC Bank, South Africa",
+      "uk": "HSBC Bank, South Africa"
+    }
+  },
+  {
+    "status":"active",
+    "code":"olympus_mobile_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en": "Olympus Mobile Bank, South Africa",
+      "ru": "Olympus Mobile Bank, South Africa",
+      "uk": "Olympus Mobile Bank, South Africa"
+    }
+  },
+  {
+    "status":"active",
+    "code":"rmb_private_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en": "RMB Private Bank, South Africa",
+      "ru": "RMB Private Bank, South Africa",
+      "uk": "RMB Private Bank, South Africa"
+    }
+  },
+  {
+    "status":"active",
+    "code":"sasfin_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en": "SASFIN Bank, South Africa",
+      "ru": "SASFIN Bank, South Africa",
+      "uk": "SASFIN Bank, South Africa"
+    }
+  },
+  {
+    "status":"active",
+    "code":"south_african_bank_of_athens",
+    "category":"bank_transfer",
+    "name":{
+      "en": "South African Bank of Athens",
+      "ru": "South African Bank of Athens",
+      "uk": "South African Bank of Athens"
+    }
+  },
+  {
+    "status":"active",
+    "code":"ubank",
+    "category":"bank_transfer",
+    "name":{
+      "en": "Ubank LTD, South Africa",
+      "ru": "Ubank LTD, South Africa",
+      "uk": "Ubank LTD, South Africa"
+    }
+  },
+  {
+    "status":"active",
+    "code":"vbs_mutual_bank",
+    "category":"bank_transfer",
+    "name":{
+      "en": "VBS Mutual Bank, South Africa",
+      "ru": "VBS Mutual Bank, South Africa",
+      "uk": "VBS Mutual Bank, South Africa"
+    }
+  },
+  {
+    "status": "active",
+    "code": "paybol",
+    "category": "digital_wallet",
+    "name": {
+      "en": "Paybol",
+      "ru": "Paybol",
+      "uk": "Paybol"
+    }
+  },
+  {
+    "status": "active",
+    "code": "nova_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "NovaBank",
+      "ru": "NovaBank",
+      "uk": "NovaBank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "community_bank",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Community Bank",
+      "uk": "Community Bank",
+      "ru": "Community Bank"
+    }
+  },
+  {
+    "status":"active",
+    "code":"etisalat_cash",
+    "category":"digital_wallet",
+    "name":{
+      "en":"Etisalat Cash",
+      "ru":"Etisalat Cash",
+      "uk":"Etisalat Cash"
+    }
+  },
+  {
+    "status":"active",
+    "code":"cib_smart_wallet",
+    "category":"digital_wallet",
+    "name":{
+      "en":"CIB Smart Wallet",
+      "ru":"CIB Smart Wallet",
+      "uk":"CIB Smart Wallet"
+    }
+  },
+  {
+    "code": "colombia_bank",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "BANCOLOMBIA",
+      "ru": "BANCOLOMBIA",
+      "uk": "BANCOLOMBIA"
+    }
+  },
+  {
+    "code": "bogota_desarrollo_bank",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "BANCO DE BOGOTA DESARROLLO 2013",
+      "ru": "BANCO DE BOGOTA DESARROLLO 2013",
+      "uk": "BANCO DE BOGOTA DESARROLLO 2013"
+    }
+  },
+  {
+    "code": "davivienda_bank",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "BANCO DAVIVIENDA",
+      "ru": "BANCO DAVIVIENDA",
+      "uk": "BANCO DAVIVIENDA"
+    }
+  },
+  {
+    "code": "bbva_colombia",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "BANCO BBVA COLOMBIA S.A.",
+      "ru": "BANCO BBVA COLOMBIA S.A.",
+      "uk": "BANCO BBVA COLOMBIA S.A."
+    }
+  },
+  {
+    "code": "occidente_bank",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "BANCO DE OCCIDENTE",
+      "ru": "BANCO DE OCCIDENTE",
+      "uk": "BANCO DE OCCIDENTE"
+    }
+  },
+  {
+    "code": "scotiabank",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "SCOTIABANK COLPATRIA",
+      "ru": "SCOTIABANK COLPATRIA",
+      "uk": "SCOTIABANK COLPATRIA"
+    }
+  },
+  {
+    "code": "bancoitau",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "BANCO ITAU",
+      "ru": "BANCO ITAU",
+      "uk": "BANCO ITAU"
+    }
+  },
+  {
+    "code": "gnb_sudameris_bank",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "BANCO GNB SUDAMERIS",
+      "ru": "BANCO GNB SUDAMERIS",
+      "uk": "BANCO GNB SUDAMERIS"
+    }
+  },
+  {
+    "code": "citibank_colombia",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "Citigroup Inc",
+      "ru": "Citigroup Inc",
+      "uk": "Citigroup Inc"
+    }
+  },
+  {
+    "code": "bancopopular",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "BANCO POPULAR",
+      "ru": "BANCO POPULAR",
+      "uk": "BANCO POPULAR"
+    }
+  },
+  {
+    "code": "daviplata",
+    "category": "digital_wallet",
+    "status": "active",
+    "name": {
+      "en": "DAVIPLATA",
+      "ru": "DAVIPLATA",
+      "uk": "DAVIPLATA"
+    }
+  },
+  {
+    "code": "movii",
+    "category": "digital_wallet",
+    "status": "active",
+    "name": {
+      "en": "MOVII",
+      "ru": "MOVII",
+      "uk": "MOVII"
+    }
+  },
+  {
+    "code": "nequi",
+    "category": "digital_wallet",
+    "status": "active",
+    "name": {
+      "en": "NEQUI",
+      "ru": "NEQUI",
+      "uk": "NEQUI"
+    }
+  },
+  {
+    "code": "bancamia",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "BANCAMIA S.A.",
+      "ru": "BANCAMIA S.A.",
+      "uk": "BANCAMIA S.A."
+    }
+  },
+  {
+    "code": "banco_agrario",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "BANCO AGRARIO",
+      "ru": "BANCO AGRARIO",
+      "uk": "BANCO AGRARIO"
+    }
+  },
+  {
+    "code": "banco_av_villas",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "BANCO AV VILLAS",
+      "ru": "BANCO AV VILLAS",
+      "uk": "BANCO AV VILLAS"
+    }
+  },
+  {
+    "code": "banco_caja_social",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "BANCO CAJA SOCIAL",
+      "ru": "BANCO CAJA SOCIAL",
+      "uk": "BANCO CAJA SOCIAL"
+    }
+  },
+  {
+    "code": "coopcentral",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "BANCO COOPERATIVO COOPCENTRAL",
+      "ru": "BANCO COOPERATIVO COOPCENTRAL",
+      "uk": "BANCO COOPERATIVO COOPCENTRAL"
+    }
+  },
+  {
+    "code": "credifinanciera",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "BANCO CREDIFINANCIERA",
+      "ru": "BANCO CREDIFINANCIERA",
+      "uk": "BANCO CREDIFINANCIERA"
+    }
+  },
+  {
+    "code": "bogota_bank",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "BANCO DE BOGOTA",
+      "ru": "BANCO DE BOGOTA",
+      "uk": "BANCO DE BOGOTA"
+    }
+  },
+  {
+    "code": "banco_falabella",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "BANCO FALABELLA",
+      "ru": "BANCO FALABELLA",
+      "uk": "BANCO FALABELLA"
+    }
+  },
+  {
+    "code": "banco_pichincha",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "BANCO PICHINCHA S.A.",
+      "ru": "BANCO PICHINCHA S.A.",
+      "uk": "BANCO PICHINCHA S.A."
+    }
+  },
+  {
+    "code": "santander_colombia",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "BANCO SANTANDER COLOMBIA",
+      "ru": "BANCO SANTANDER COLOMBIA",
+      "uk": "BANCO SANTANDER COLOMBIA"
+    }
+  },
+  {
+    "code": "banco_serfinanza",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "BANCO SERFINANZA",
+      "ru": "BANCO SERFINANZA",
+      "uk": "BANCO SERFINANZA"
+    }
+  },
+  {
+    "code": "banco_union",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "BANCO UNION antes GIROS",
+      "ru": "BANCO UNION antes GIROS",
+      "uk": "BANCO UNION antes GIROS"
+    }
+  },
+  {
+    "code": "bancoomeva",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "BANCOOMEVA S.A.",
+      "ru": "BANCOOMEVA S.A.",
+      "uk": "BANCOOMEVA S.A."
+    }
+  },
+  {
+    "code": "cfa_cooperativa",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "CFA COOPERATIVA FINANCIERA",
+      "ru": "CFA COOPERATIVA FINANCIERA",
+      "uk": "CFA COOPERATIVA FINANCIERA"
+    }
+  },
+  {
+    "code": "citibank",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "CITIBANK",
+      "ru": "CITIBANK",
+      "uk": "CITIBANK"
+    }
+  },
+  {
+    "code": "coltefinanciera",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "COLTEFINANCIERA",
+      "ru": "COLTEFINANCIERA",
+      "uk": "COLTEFINANCIERA"
+    }
+  },
+  {
+    "code": "confiar_cooperativa",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "CONFIAR COOPERATIVA FINANCIERA",
+      "ru": "CONFIAR COOPERATIVA FINANCIERA",
+      "uk": "CONFIAR COOPERATIVA FINANCIERA"
+    }
+  },
+  {
+    "code": "coofinep",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "COOFINEP COOPERATIVA FINANCIERA",
+      "ru": "COOFINEP COOPERATIVA FINANCIERA",
+      "uk": "COOFINEP COOPERATIVA FINANCIERA"
+    }
+  },
+  {
+    "code": "cotrafa",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "COTRAFA",
+      "ru": "COTRAFA",
+      "uk": "COTRAFA"
+    }
+  },
+  {
+    "code": "iris",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "IRIS",
+      "ru": "IRIS",
+      "uk": "IRIS"
+    }
+  },
+  {
+    "code": "lulo_bank",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "LULO BANK",
+      "ru": "LULO BANK",
+      "uk": "LULO BANK"
+    }
+  },
+  {
+    "code": "rappipay_daviplata",
+    "category": "digital_wallet",
+    "status": "active",
+    "name": {
+      "en": "Rappipay Daviplata",
+      "ru": "Rappipay Daviplata",
+      "uk": "Rappipay Daviplata"
+    }
+  },
+  {
+    "code": "rappipay",
+    "category": "digital_wallet",
+    "status": "active",
+    "name": {
+      "en": "RappiPay Compañía de Financiamiento S.A",
+      "ru": "RappiPay Compañía de Financiamiento S.A",
+      "uk": "RappiPay Compañía de Financiamiento S.A"
+    }
+  },
+  {
+    "code": "dale",
+    "category": "digital_wallet",
+    "status": "active",
+    "name": {
+      "en": "Dale",
+      "ru": "Dale",
+      "uk": "Dale"
+    }
+  },
+  {
+    "code": "bni_bank",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "BNI Bank",
+      "ru": "BNI Bank",
+      "uk": "BNI Bank"
+    }
+  },
+  {
+    "code": "bri_bank",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "BRI Bank",
+      "ru": "BRI Bank",
+      "uk": "BRI Bank"
+    }
+  },
+  {
+    "code": "bca_bank",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "BCA Bank",
+      "ru": "BCA Bank",
+      "uk": "BCA Bank"
+    }
+  },
+  {
+    "status": "active",
+    "code": "gopay",
+    "category": "digital_wallet",
+    "name": {
+      "en": "GoPay",
+      "uk": "GoPay",
+      "ru": "GoPay"
+    }
+  },
+  {
+    "status": "active",
+    "code": "ovo",
+    "category": "digital_wallet",
+    "name": {
+      "en": "OVO",
+      "uk": "OVO",
+      "ru": "OVO"
+    }
+  },
+  {
+    "status": "active",
+    "code": "dana",
+    "category": "digital_wallet",
+    "name": {
+      "en": "Dana",
+      "uk": "Dana",
+      "ru": "Dana"
+    }
+  },
+  {
+    "code": "linkaja",
+    "category": "digital_wallet",
+    "status": "active",
+    "name": {
+      "en": "PT Fintek Karya Nusantara Linkaja e-wallet",
+      "ru": "PT Fintek Karya Nusantara Linkaja e-wallet",
+      "uk": "PT Fintek Karya Nusantara Linkaja e-wallet"
+    }
+  },
+  {
+    "code": "bbva_bancomer",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "BBVA Bancomer S.A.",
+      "ru": "BBVA Bancomer S.A.",
+      "uk": "BBVA Bancomer S.A."
+    }
+  },
+  {
+    "code": "banco_santander",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "SANTANDER",
+      "ru": "SANTANDER",
+      "uk": "SANTANDER"
+    }
+  },
+  {
+    "code": "banorte",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "Banco Mercantil del Norte S.A.",
+      "ru": "Banco Mercantil del Norte S.A.",
+      "uk": "Banco Mercantil del Norte S.A."
+    }
+  },
+  {
+    "code": "shopeepay",
+    "category": "digital_wallet",
+    "status": "active",
+    "vendor": "shopeepay",
+    "name": {
+      "en": "ShopeePay",
+      "ru": "ShopeePay",
+      "uk": "ShopeePay"
+    }
+  },
+  {
+    "code": "activ_kcell",
+    "category": "telecommunications",
+    "status": "active",
+    "name": {
+      "en": "Kcell/Activ",
+      "ru": "Kcell/Activ",
+      "uk": "Kcell/Activ"
+    }
+  },
+  {
+    "code": "altel_tele2",
+    "category": "telecommunications",
+    "status": "active",
+    "name": {
+      "en": "Tele2/Altel",
+      "ru": "Tele2/Altel",
+      "uk": "Tele2/Altel"
+    }
+  },
+  {
+    "code": "rapipago",
+    "vendor": "rapipago",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "Rapipago",
+      "ru": "Rapipago",
+      "uk": "Rapipago"
+    }
+  },
+  {
+    "code": "ach",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "Automated Clearing House (ACH)",
+      "ru": "Automated Clearing House (ACH)",
+      "uk": "Automated Clearing House (ACH)"
+    }
+  },
+  {
+    "code": "eft",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "Electronic funds transfer (EFT)",
+      "ru": "Electronic funds transfer (EFT)",
+      "uk": "Electronic funds transfer (EFT)"
+    }
+  },
+  {
+    "code": "netbanking",
+    "category": "online_banking",
+    "status": "active",
+    "name": {
+      "en": "Net Banking",
+      "ru": "Net Banking",
+      "uk": "Net Banking"
+    }
+  },
+  {
+    "code": "blik",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "BLIK",
+      "uk": "BLIK",
+      "ru": "BLIK"
+    }
+  },
+  {
+    "code": "capitec_business",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "Capitec Business",
+      "uk": "Capitec Business",
+      "ru": "Capitec Business"
+    }
+  },
+  {
+    "code": "finbond_epe",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "Finbond EPE",
+      "uk": "Finbond EPE",
+      "ru": "Finbond EPE"
+    }
+  },
+  {
+    "code": "hbz_bank",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "HBZ Bank (Westville)",
+      "uk": "HBZ Bank (Westville)",
+      "ru": "HBZ Bank (Westville)"
+    }
+  },
+  {
+    "code": "jpmorgan_south_africa",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "JP Morgan South Africa",
+      "uk": "JP Morgan South Africa",
+      "ru": "JP Morgan South Africa"
+    }
+  },
+  {
+    "code": "khalti",
+    "category": "online_banking",
+    "status": "active",
+    "name": {
+      "en": "Khalti",
+      "ru": "Khalti",
+      "uk": "Khalti"
+    }
+  },
+  {
+    "code": "esewa",
+    "category": "online_banking",
+    "status": "active",
+    "name": {
+      "en": "Esewa",
+      "ru": "Esewa",
+      "uk": "Esewa"
+    }
+  },
+  {
+    "code": "imepay",
+    "category": "online_banking",
+    "status": "active",
+    "name": {
+      "en": "Imepay",
+      "ru": "Imepay",
+      "uk": "Imepay"
+    }
+  },
+  {
+    "code": "societe_generale_south_africa",
+    "category": "bank_transfer",
+    "status": "active",
+    "name": {
+      "en": "Société Générale South Africa",
+      "uk": "Société Générale South Africa",
+      "ru": "Société Générale South Africa"
+    }
+  },
+  {
+    "code": "pagomovil",
+    "category": "mobile_payment",
+    "status": "active",
+    "name": {
+      "en": "PagoMóvil",
+      "uk": "PagoMóvil",
+      "ru": "PagoMóvil"
+    }
+  },
+  {
+    "code": "binancepay",
+    "category": "alternative",
+    "status": "active",
+    "name": {
+      "en": "Binance Pay",
+      "ru": "Binance Pay",
+      "uk": "Binance Pay"
+    }
+  },
+  {
+    "code": "halotel",
+    "category": "mobile_payment",
+    "status": "active",
+    "name": {
+      "en": "Halotel",
+      "ru": "Halotel",
+      "uk": "Halotel"
+    }
+  },
+  {
+    "code": "mercadopago",
+    "category": "digital_wallet",
+    "vendor": "mercadopago",
+    "status": "active",
+    "name": {
+      "en": "MercadoPago",
+      "ru": "MercadoPago",
+      "uk": "MercadoPago"
+    }
+  },
+  {
+    "code": "hkma_fps",
+    "category": "digital_wallet",
+    "status": "active",
+    "name": {
+      "en": "HKMA - FPS",
+      "ru": "HKMA - FPS",
+      "uk": "HKMA - FPS"
+    }
+  },
+  {
+    "status":"active",
+    "code":"moov",
+    "category":"mobile_payment",
+    "name":{
+      "en":"Moov",
+      "ru": "Moov",
+      "uk": "Moov"
+    }
+  },
+  {
+    "status":"active",
+    "code":"tnm",
+    "category":"mobile_payment",
+    "name":{
+      "en":"TNM",
+      "ru": "TNM",
+      "uk": "TNM"
+    }
+  },
+  {
+    "code": "pse",
+    "category": "online_banking",
+    "status": "active",
+    "name": {
+      "en": "PSE",
+      "ru": "PSE",
+      "uk": "PSE"
+    }
+  },
+  {
+    "code": "vodafone",
+    "vendor": "vodafone",
+    "category": "mobile_payment",
+    "status": "active",
+    "name": {
+      "en": "Vodafone",
+      "ru": "Vodafone",
+      "uk": "Vodafone"
+    }
+  },
+  {
+    "status":"active",
+    "code":"etisalat",
+    "category":"mobile_payment",
+    "name":{
+      "en":"Etisalat",
+      "ru":"Etisalat",
+      "uk":"Etisalat"
+    }
+  },
+  {
+    "code": "moov_ci",
+    "vendor": "moov",
+    "category": "mobile_payment",
+    "status": "active",
+    "name": {
+      "en": "MOOV_CI",
+      "ru": "MOOV_CI",
+      "uk": "MOOV_CI"
+    }
+  },
+  {
+    "code": "mtn_ci",
+    "vendor": "mtn",
+    "category": "mobile_payment",
+    "status": "active",
+    "name": {
+      "en": "MTN",
+      "ru": "MTN",
+      "uk": "MTN"
+    }
+  },
+  {
+    "code": "orange_ci",
+    "vendor": "orange",
+    "category": "mobile_payment",
+    "status": "active",
+    "name": {
+      "en": "Orange",
+      "ru": "Orange",
+      "uk": "Orange"
+    }
+  },
+  {
+    "code": "wave_ci",
+    "vendor": "wave",
+    "category": "mobile_payment",
+    "status": "active",
+    "name": {
+      "en": "Wave",
+      "ru": "Wave",
+      "uk": "Wave"
+    }
+  },
+  {
+    "code": "moov_bf",
+    "vendor": "moov",
+    "category": "mobile_payment",
+    "status": "active",
+    "name": {
+      "en": "MOOV_BF",
+      "ru": "MOOV_BF",
+      "uk": "MOOV_BF"
+    }
+  },
+  {
+    "code": "orange_bf",
+    "vendor": "orange",
+    "category": "mobile_payment",
+    "status": "active",
+    "name": {
+      "en": "ORANGE_BF",
+      "ru": "ORANGE_BF",
+      "uk": "ORANGE_BF"
+    }
+  },
+  {
+    "code": "orange_ml",
+    "vendor": "orange",
+    "category": "mobile_payment",
+    "status": "active",
+    "name": {
+      "en": "ORANGE_ML",
+      "ru": "ORANGE_ML",
+      "uk": "ORANGE_ML"
+    }
+  },
+  {
+    "code": "moov_ml",
+    "vendor": "moov",
+    "category": "mobile_payment",
+    "status": "active",
+    "name": {
+      "en": "MOOV_ML",
+      "ru": "MOOV_ML",
+      "uk": "MOOV_ML"
+    }
+  },
+  {
+    "code": "moov_bj",
+    "vendor": "moov",
+    "category": "mobile_payment",
+    "status": "active",
+    "name": {
+      "en": "MOOV_BJ",
+      "ru": "MOOV_BJ",
+      "uk": "MOOV_BJ"
+    }
+  },
+  {
+    "code": "mtn_bj",
+    "vendor": "mtn",
+    "category": "mobile_payment",
+    "status": "active",
+    "name": {
+      "en": "MTN_BJ",
+      "ru": "MTN_BJ",
+      "uk": "MTN_BJ"
+    }
+  },
+  {
+    "code": "expresso_sn",
+    "vendor": "expresso",
+    "category": "mobile_payment",
+    "status": "active",
+    "name": {
+      "en": "Expresso",
+      "ru": "Expresso",
+      "uk": "Expresso"
+    }
+  },
+  {
+    "code": "wave_sn",
+    "vendor": "wave",
+    "category": "mobile_payment",
+    "status": "active",
+    "name": {
+      "en": "Wave",
+      "ru": "Wave",
+      "uk": "Wave"
+    }
+  },
+  {
+    "code": "orange_sn",
+    "vendor": "orange",
+    "category": "mobile_payment",
+    "status": "active",
+    "name": {
+      "en": "Orange",
+      "ru": "Orange",
+      "uk": "Orange"
+    }
+  },
+  {
+    "code": "free_sn",
+    "vendor": "free",
+    "category": "mobile_payment",
+    "status": "active",
+    "name": {
+      "en": "Free",
+      "ru": "Free",
+      "uk": "Free"
+    }
+  },
+  {
+    "code": "moov_tg",
+    "vendor": "moov",
+    "category": "mobile_payment",
+    "status": "active",
+    "name": {
+      "en": "MOOV_TG",
+      "ru": "MOOV_TG",
+      "uk": "MOOV_TG"
+    }
+  },
+  {
+    "code": "tmoney_tg",
+    "vendor": "tmoney",
+    "category": "mobile_payment",
+    "status": "active",
+    "name": {
+      "en": "TMoney",
+      "ru": "TMoney",
+      "uk": "TMoney"
+    }
+  },
+  {
+    "code": "mtn_cm",
+    "vendor": "mtn",
+    "category": "mobile_payment",
+    "status": "active",
+    "name": {
+      "en": "MTN",
+      "ru": "MTN",
+      "uk": "MTN"
+    }
+  },
+  {
+    "code": "orange_cm",
+    "vendor": "orange",
+    "category": "mobile_payment",
+    "status": "active",
+    "name": {
+      "en": "Orange",
+      "ru": "Orange",
+      "uk": "Orange"
+    }
+  },
+  {
+    "code": "tigopesa",
+    "vendor": "tigopesa",
+    "category": "mobile_payment",
+    "status": "active",
+    "name": {
+      "en": "TigoPesa",
+      "ru": "TigoPesa",
+      "uk": "TigoPesa"
+    }
+  },
+  {
+    "code": "orange_cash",
+    "category": "mobile_payment",
+    "status": "active",
+    "name": {
+      "en": "Orange cash",
+      "ru": "Orange cash",
+      "uk": "Orange cash"
+    }
+  },
+  {
+    "status": "active",
+    "code": "breb",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Bre-B",
+      "ru": "Bre-B",
+      "uk": "Bre-B"
+    }
+  },
+  {
+    "status": "active",
+    "code": "transfiya",
+    "category": "bank_transfer",
+    "name": {
+      "en": "TransFiYa",
+      "ru": "TransFiYa",
+      "uk": "TransFiYa"
+    }
+  },
+  {
+    "code": "zimpler",
+    "vendor": "zimpler",
+    "category": "bank_transfer",
+    "status": "active",
+    "countries": [
+      "SE",
+      "EE",
+      "FI",
+      "BR",
+      "DK"
+    ],
+    "name": {
+      "en": "Zimpler"
+    },
+    "description": {
+      "en": "Zimpler is a Swedish fintech company focused on simplifying mobile payments."
+    }
+  },
+  {
+    "code": "swish",
+    "vendor": "swish",
+    "category": "mobile_payment",
+    "status": "active",
+    "countries": [
+      "SE"
+    ],
+    "name": {
+      "en": "Swish"
+    },
+    "description": {
+      "en": "Swish is a mobile payment system in Sweden."
+    }
+  },
+  {
+    "status": "active",
+    "code": "mifinity_wallet",
+    "vendor": "mifinity",
+    "category": "digital_wallet",
+    "name": {
+      "en": "MiFinity",
+      "ru": "MiFinity",
+      "uk": "MiFinity"
+    }
+  },
+  {
+    "status": "active",
+    "code": "trustly",
+    "category": "digital_wallet",
+    "name": {
+      "en": "Trustly",
+      "uk": "Trustly",
+      "ru": "Trustly"
+    }
+  },
+  {
+    "code": "pay_id",
+    "category": "alternative",
+    "status": "active",
+    "name": {
+      "en": "PayID",
+      "ru": "PayID",
+      "uk": "PayID"
+    },
+    "description": {
+      "en": "PayID is an Australian payment service that lets you link a bank account to an identifier such as an email, phone number or ABN.",
+      "ru": "PayID — австралийский платежный сервис, позволяющий привязать банковский счет к идентификатору, например email, номеру телефона или ABN.",
+      "uk": "PayID — австралійський платіжний сервіс, що дозволяє прив'язати банківський рахунок до ідентифікатора, наприклад email, номера телефону або ABN."
+    }
+  },
+  {
+    "status": "active",
+    "code": "mobile_money",
+    "category": "mobile_payment",
+    "name": {
+      "en": "Mobile Money",
+      "ru": "Mobile Money",
+      "uk": "Mobile Money"
+    }
+  },
+  {
+    "status": "active",
+    "code": "wiretransfer",
+    "vendor": "wiretransfer",
+    "category": "bank_transfer",
+    "name": {
+      "en": "Wire Transfer"
+    }
+  },
+  {
+    "status": "active",
+    "code": "luxon_wallet",
+    "vendor": "luxonpay",
+    "category": "digital_wallet",
+    "name": {
+      "en": "Luxon Pay Wallet",
+      "ru": "Luxon Pay Wallet",
+      "uk": "Luxon Pay Wallet"
+    }
+  },
+  {
+    "status": "active",
+    "code": "luxon_email",
+    "vendor": "luxonpay",
+    "category": "digital_wallet",
+    "name": {
+      "en": "Luxon Pay by Email",
+      "ru": "Luxon Pay by Email",
+      "uk": "Luxon Pay by Email"
+    }
+  },
+  {
+    "status": "active",
+    "code": "luxon_phone",
+    "vendor": "luxonpay",
+    "category": "digital_wallet",
+    "name": {
+      "en": "Luxon Pay by Phone",
+      "ru": "Luxon Pay by Phone",
+      "uk": "Luxon Pay by Phone"
     }
   }
 ]

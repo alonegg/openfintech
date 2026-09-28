@@ -29,41 +29,18 @@ class DataProvider
     const VENDORS_FILENAME = '/vendors.json';
     const PAYOUT_METHOD_CATEGORIES_FILENAME = '/payout_method_categories.json';
 
-    /* @var array */
-    private $providers;
-
-    /* @var array */
-    private $paymentMethods;
-
-    /* @var array */
-    private $payoutServices;
-
-    /* @var array */
-    private $paymentServices;
-
-    /* @var array */
-    private $payoutMethods;
-
-    /* @var array */
-    private $paymentMethodCategories;
-
-    /* @var array */
-    private $payoutMethodCategories;
-
-    /* @var array */
-    private $paymentFlows;
-
-    /* @var array */
-    private $currencies;
-
-    /* @var array */
-    private $currencyTypes;
-
-    /* @var array */
-    private $currencyCategories;
-
-    /* @var array */
-    private $vendors;
+    private array $providers;
+    private array $paymentMethods;
+    private array $payoutServices;
+    private array $paymentServices;
+    private array $payoutMethods;
+    private array $paymentMethodCategories;
+    private array $payoutMethodCategories;
+    private array $paymentFlows;
+    private array $currencies;
+    private array $currencyTypes;
+    private array $currencyCategories;
+    private array $vendors;
 
     public function __construct()
     {
@@ -87,11 +64,9 @@ class DataProvider
 
     private function getJsonContent($path): array
     {
-        try {
-            return json_decode(file_get_contents($path), true);
-        } catch (\Throwable $ex) {
-            throw $ex;
-        }
+        \ini_set('memory_limit', '2G');
+
+        return json_decode(file_get_contents($path), true);
     }
 
     private function setProviders(array $data): void
@@ -99,7 +74,7 @@ class DataProvider
         $tmp = [];
 
         foreach ($data as $item) {
-            array_push($tmp, ProviderDto::fromArray($item));
+            $tmp[] = ProviderDto::fromArray($item);
         }
 
         $this->providers = $tmp;
@@ -110,7 +85,7 @@ class DataProvider
         $tmp = [];
 
         foreach ($data as $item) {
-            array_push($tmp, PaymentMethodDto::fromArray($item));
+            $tmp[] = PaymentMethodDto::fromArray($item);
         }
 
         $this->paymentMethods = $tmp;
@@ -121,7 +96,7 @@ class DataProvider
         $tmp = [];
 
         foreach ($data as $item) {
-            array_push($tmp, PayoutServiceDto::fromArray($item));
+            $tmp[] = PayoutServiceDto::fromArray($item);
         }
 
         $this->payoutServices = $tmp;
@@ -132,7 +107,7 @@ class DataProvider
         $tmp = [];
 
         foreach ($data as $item) {
-            array_push($tmp, PaymentServiceDto::fromArray($item));
+            $tmp[] = PaymentServiceDto::fromArray($item);
         }
 
         $this->paymentServices = $tmp;
@@ -143,7 +118,7 @@ class DataProvider
         $tmp = [];
 
         foreach ($data as $item) {
-            array_push($tmp, PayoutMethodDto::fromArray($item));
+            $tmp[] = PayoutMethodDto::fromArray($item);
         }
 
         $this->payoutMethods = $tmp;
@@ -154,7 +129,7 @@ class DataProvider
         $tmp = [];
 
         foreach ($data as $item) {
-            array_push($tmp, CategoryDto::fromArray($item));
+            $tmp[] = CategoryDto::fromArray($item);
         }
 
         $this->paymentMethodCategories = $tmp;
@@ -165,7 +140,7 @@ class DataProvider
         $tmp = [];
 
         foreach ($data as $item) {
-            array_push($tmp, FlowDto::fromArray($item));
+            $tmp[] = FlowDto::fromArray($item);
         }
 
         $this->paymentFlows = $tmp;
@@ -176,7 +151,7 @@ class DataProvider
         $tmp = [];
 
         foreach ($data as $item) {
-            array_push($tmp, CurrencyDto::fromArray($item));
+            $tmp[] = CurrencyDto::fromArray($item);
         }
 
         $this->currencies = $tmp;
@@ -187,7 +162,7 @@ class DataProvider
         $tmp = [];
 
         foreach ($data as $item) {
-            array_push($tmp, CurrencyTypeDto::fromArray($item));
+            $tmp[] = CurrencyTypeDto::fromArray($item);
         }
 
         $this->currencyTypes = $tmp;
@@ -198,7 +173,7 @@ class DataProvider
         $tmp = [];
 
         foreach ($data as $item) {
-            array_push($tmp, CategoryDto::fromArray($item));
+            $tmp[] = CategoryDto::fromArray($item);
         }
 
         $this->currencyCategories = $tmp;
@@ -209,7 +184,7 @@ class DataProvider
         $tmp = [];
 
         foreach ($data as $item) {
-            array_push($tmp, VendorDto::fromArray($item));
+            $tmp[] = VendorDto::fromArray($item);
         }
 
         $this->vendors = $tmp;
@@ -220,7 +195,7 @@ class DataProvider
         $tmp = [];
 
         foreach ($data as $item) {
-            array_push($tmp, CategoryDto::fromArray($item));
+            $tmp[] = CategoryDto::fromArray($item);
         }
 
         $this->payoutMethodCategories = $tmp;
